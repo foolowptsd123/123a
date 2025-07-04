@@ -1,0 +1,2024 @@
+{
+  "__comment": [
+    "Mobs will be able to equip items declared here",
+    "The first number is the weight while the second number is the quality",
+    "Weight is the weight of an item. Higher weight means that the item is more likely to get choosen",
+    "Quality is a modifier applied to the weight. The final weight used is weight + quality * current difficulty"
+  ],
+  "MAINHAND": {
+    "ageofweapons:ax_stone": [
+      1297,
+      -2.376
+    ],
+    "ageofweapons:baton_iron": [
+      1329,
+      -2.632
+    ],
+    "ageofweapons:baton_wood": [
+      1432,
+      -3.456
+    ],
+    "ageofweapons:battle_axe_diamond": [
+      392,
+      4.864
+    ],
+    "ageofweapons:battle_axe_gold": [
+      1147,
+      -1.176
+    ],
+    "ageofweapons:battle_axe_iron": [
+      907,
+      0.744
+    ],
+    "ageofweapons:battle_axe_netherite": [
+      148,
+      6.816
+    ],
+    "ageofweapons:battle_axe_stone": [
+      1034,
+      -0.272
+    ],
+    "ageofweapons:battle_axe_wood": [
+      1141,
+      -1.128
+    ],
+    "ageofweapons:boarding_axe_diamond": [
+      467,
+      4.264
+    ],
+    "ageofweapons:boarding_axe_gold": [
+      1228,
+      -1.824
+    ],
+    "ageofweapons:boarding_axe_iron": [
+      1009,
+      -0.072
+    ],
+    "ageofweapons:boarding_axe_netherite": [
+      158,
+      6.736
+    ],
+    "ageofweapons:boarding_axe_stone": [
+      1126,
+      -1.008
+    ],
+    "ageofweapons:boarding_axe_wood": [
+      1225,
+      -1.8
+    ],
+    "ageofweapons:bone_knife": [
+      1416,
+      -3.328
+    ],
+    "ageofweapons:broadsword_diamond": [
+      119,
+      7.048
+    ],
+    "ageofweapons:broadsword_gold": [
+      1240,
+      -1.92
+    ],
+    "ageofweapons:broadsword_iron": [
+      958,
+      0.336
+    ],
+    "ageofweapons:broadsword_netherite": [
+      1,
+      9.264
+    ],
+    "ageofweapons:broadsword_stone": [
+      1109,
+      -0.872
+    ],
+    "ageofweapons:broadsword_wood": [
+      1228,
+      -1.824
+    ],
+    "ageofweapons:buster_sword": [
+      1,
+      9.84
+    ],
+    "ageofweapons:caveman_knife": [
+      1403,
+      -3.224
+    ],
+    "ageofweapons:caveman_spear": [
+      1411,
+      -3.288
+    ],
+    "ageofweapons:claw_diamond": [
+      884,
+      0.928
+    ],
+    "ageofweapons:claw_gold": [
+      1366,
+      -2.928
+    ],
+    "ageofweapons:claw_iron": [
+      1272,
+      -2.176
+    ],
+    "ageofweapons:claw_netherite": [
+      730,
+      2.16
+    ],
+    "ageofweapons:claw_stone": [
+      1325,
+      -2.6
+    ],
+    "ageofweapons:claw_sword_diamond": [
+      352,
+      5.184
+    ],
+    "ageofweapons:claw_sword_gold": [
+      1306,
+      -2.448
+    ],
+    "ageofweapons:claw_sword_iron": [
+      1096,
+      -0.768
+    ],
+    "ageofweapons:claw_sword_netherite": [
+      120,
+      7.04
+    ],
+    "ageofweapons:claw_sword_stone": [
+      1211,
+      -1.688
+    ],
+    "ageofweapons:claw_sword_wood": [
+      1296,
+      -2.368
+    ],
+    "ageofweapons:claw_wood": [
+      1357,
+      -2.856
+    ],
+    "ageofweapons:claymore_diamond": [
+      1,
+      9.76
+    ],
+    "ageofweapons:claymore_gold": [
+      1026,
+      -0.208
+    ],
+    "ageofweapons:claymore_iron": [
+      678,
+      2.576
+    ],
+    "ageofweapons:claymore_netherite": [
+      1,
+      12.176
+    ],
+    "ageofweapons:claymore_stone": [
+      865,
+      1.08
+    ],
+    "ageofweapons:claymore_wood": [
+      1005,
+      -0.04
+    ],
+    "ageofweapons:cleaver_diamond": [
+      1,
+      9.584
+    ],
+    "ageofweapons:cleaver_gold": [
+      986,
+      0.112
+    ],
+    "ageofweapons:cleaver_iron": [
+      659,
+      2.728
+    ],
+    "ageofweapons:cleaver_netherite": [
+      1,
+      11.864
+    ],
+    "ageofweapons:cleaver_stone": [
+      835,
+      1.32
+    ],
+    "ageofweapons:cleaver_wood": [
+      965,
+      0.28
+    ],
+    "ageofweapons:compound_bow": [
+      1050,
+      0.0
+    ],
+    "ageofweapons:cudgel_stone": [
+      1354,
+      -2.832
+    ],
+    "ageofweapons:cudgel_wood": [
+      1415,
+      -3.32
+    ],
+    "ageofweapons:dagger_diamond": [
+      1009,
+      -0.072
+    ],
+    "ageofweapons:dagger_gold": [
+      1429,
+      -3.432
+    ],
+    "ageofweapons:dagger_iron": [
+      1343,
+      -2.744
+    ],
+    "ageofweapons:dagger_netherite": [
+      844,
+      1.248
+    ],
+    "ageofweapons:dagger_stone": [
+      1389,
+      -3.112
+    ],
+    "ageofweapons:dagger_wood": [
+      1420,
+      -3.36
+    ],
+    "ageofweapons:double_lightsaber_blue": [
+      904,
+      0.768
+    ],
+    "ageofweapons:double_lightsaber_green": [
+      904,
+      0.768
+    ],
+    "ageofweapons:double_lightsaber_red": [
+      904,
+      0.768
+    ],
+    "ageofweapons:double_lightsaber_yellow": [
+      904,
+      0.768
+    ],
+    "ageofweapons:electrostaff": [
+      1309,
+      -2.472
+    ],
+    "ageofweapons:elucidator": [
+      117,
+      7.064
+    ],
+    "ageofweapons:excalibur": [
+      65,
+      7.48
+    ],
+    "ageofweapons:flail_diamond": [
+      838,
+      1.296
+    ],
+    "ageofweapons:flail_gold": [
+      1310,
+      -2.48
+    ],
+    "ageofweapons:flail_iron": [
+      1207,
+      -1.656
+    ],
+    "ageofweapons:flail_netherite": [
+      635,
+      2.92
+    ],
+    "ageofweapons:flail_stone": [
+      1264,
+      -2.112
+    ],
+    "ageofweapons:flail_wood": [
+      1307,
+      -2.456
+    ],
+    "ageofweapons:glaive_diamond": [
+      112,
+      7.104
+    ],
+    "ageofweapons:glaive_gold": [
+      1172,
+      -1.376
+    ],
+    "ageofweapons:glaive_iron": [
+      890,
+      0.88
+    ],
+    "ageofweapons:glaive_netherite": [
+      1,
+      9.152
+    ],
+    "ageofweapons:glaive_stone": [
+      1039,
+      -0.312
+    ],
+    "ageofweapons:glaive_wood": [
+      1166,
+      -1.328
+    ],
+    "ageofweapons:halbert_diamond": [
+      602,
+      3.184
+    ],
+    "ageofweapons:halbert_gold": [
+      1282,
+      -2.256
+    ],
+    "ageofweapons:halbert_iron": [
+      1076,
+      -0.608
+    ],
+    "ageofweapons:halbert_netherite": [
+      348,
+      5.216
+    ],
+    "ageofweapons:halbert_stone": [
+      1187,
+      -1.496
+    ],
+    "ageofweapons:halbert_wood": [
+      1273,
+      -2.184
+    ],
+    "ageofweapons:hand_ax": [
+      1399,
+      -3.192
+    ],
+    "ageofweapons:hatchet_diamond": [
+      734,
+      2.128
+    ],
+    "ageofweapons:hatchet_gold": [
+      1364,
+      -2.912
+    ],
+    "ageofweapons:hatchet_iron": [
+      1186,
+      -1.488
+    ],
+    "ageofweapons:hatchet_netherite": [
+      508,
+      3.936
+    ],
+    "ageofweapons:hatchet_stone": [
+      1282,
+      -2.256
+    ],
+    "ageofweapons:hatchet_wood": [
+      1357,
+      -2.856
+    ],
+    "ageofweapons:heavy_staff_diamond": [
+      769,
+      1.848
+    ],
+    "ageofweapons:heavy_staff_gold": [
+      1413,
+      -3.304
+    ],
+    "ageofweapons:heavy_staff_iron": [
+      1254,
+      -2.032
+    ],
+    "ageofweapons:heavy_staff_netherite": [
+      552,
+      3.584
+    ],
+    "ageofweapons:heavy_staff_stone": [
+      1342,
+      -2.736
+    ],
+    "ageofweapons:heavy_staff_wood": [
+      1404,
+      -3.232
+    ],
+    "ageofweapons:industrial_harvester": [
+      850,
+      1.2
+    ],
+    "ageofweapons:iron_bow": [
+      1000,
+      0.0
+    ],
+    "ageofweapons:iron_crossbow": [
+      1000,
+      0.0
+    ],
+    "ageofweapons:katana_diamond": [
+      764,
+      1.888
+    ],
+    "ageofweapons:katana_gold": [
+      1292,
+      -2.336
+    ],
+    "ageofweapons:katana_iron": [
+      1182,
+      -1.456
+    ],
+    "ageofweapons:katana_netherite": [
+      591,
+      3.272
+    ],
+    "ageofweapons:katana_stone": [
+      1242,
+      -1.936
+    ],
+    "ageofweapons:katana_wood": [
+      1280,
+      -2.24
+    ],
+    "ageofweapons:knife_diamond": [
+      1032,
+      -0.256
+    ],
+    "ageofweapons:knife_gold": [
+      1437,
+      -3.496
+    ],
+    "ageofweapons:knife_iron": [
+      1354,
+      -2.832
+    ],
+    "ageofweapons:knife_netherite": [
+      898,
+      0.816
+    ],
+    "ageofweapons:knife_stone": [
+      1399,
+      -3.192
+    ],
+    "ageofweapons:knife_wood": [
+      1428,
+      -3.424
+    ],
+    "ageofweapons:lance_diamond": [
+      907,
+      0.744
+    ],
+    "ageofweapons:lance_gold": [
+      1446,
+      -3.568
+    ],
+    "ageofweapons:lance_iron": [
+      1309,
+      -2.472
+    ],
+    "ageofweapons:lance_netherite": [
+      681,
+      2.552
+    ],
+    "ageofweapons:lance_stone": [
+      1384,
+      -3.072
+    ],
+    "ageofweapons:lance_wood": [
+      1438,
+      -3.504
+    ],
+    "ageofweapons:lightsaber_blue": [
+      1279,
+      -2.232
+    ],
+    "ageofweapons:lightsaber_green": [
+      1279,
+      -2.232
+    ],
+    "ageofweapons:lightsaber_red": [
+      1279,
+      -2.232
+    ],
+    "ageofweapons:lightsaber_yellow": [
+      1279,
+      -2.232
+    ],
+    "ageofweapons:longsword_diamond": [
+      754,
+      1.968
+    ],
+    "ageofweapons:longsword_gold": [
+      1352,
+      -2.816
+    ],
+    "ageofweapons:longsword_iron": [
+      1213,
+      -1.704
+    ],
+    "ageofweapons:longsword_netherite": [
+      557,
+      3.544
+    ],
+    "ageofweapons:longsword_stone": [
+      1288,
+      -2.304
+    ],
+    "ageofweapons:longsword_wood": [
+      1344,
+      -2.752
+    ],
+    "ageofweapons:machete_diamond": [
+      454,
+      4.368
+    ],
+    "ageofweapons:machete_gold": [
+      1335,
+      -2.68
+    ],
+    "ageofweapons:machete_iron": [
+      1183,
+      -1.464
+    ],
+    "ageofweapons:machete_netherite": [
+      302,
+      5.584
+    ],
+    "ageofweapons:machete_stone": [
+      1258,
+      -2.064
+    ],
+    "ageofweapons:machete_wood": [
+      1305,
+      -2.44
+    ],
+    "ageofweapons:master_sword": [
+      1,
+      12.624
+    ],
+    "ageofweapons:nightmare_scythe": [
+      85,
+      7.32
+    ],
+    "ageofweapons:ninjato_diamond": [
+      868,
+      1.056
+    ],
+    "ageofweapons:ninjato_gold": [
+      1313,
+      -2.504
+    ],
+    "ageofweapons:ninjato_iron": [
+      1210,
+      -1.68
+    ],
+    "ageofweapons:ninjato_netherite": [
+      695,
+      2.44
+    ],
+    "ageofweapons:ninjato_stone": [
+      1267,
+      -2.136
+    ],
+    "ageofweapons:ninjato_wood": [
+      1307,
+      -2.456
+    ],
+    "ageofweapons:nunchuck_iron": [
+      1346,
+      -2.768
+    ],
+    "ageofweapons:nunchuck_wood": [
+      1426,
+      -3.408
+    ],
+    "ageofweapons:recurve_bow": [
+      1085,
+      0.0
+    ],
+    "ageofweapons:saber_diamond": [
+      533,
+      3.736
+    ],
+    "ageofweapons:saber_gold": [
+      1347,
+      -2.776
+    ],
+    "ageofweapons:saber_iron": [
+      1199,
+      -1.592
+    ],
+    "ageofweapons:saber_netherite": [
+      367,
+      5.064
+    ],
+    "ageofweapons:saber_stone": [
+      1274,
+      -2.192
+    ],
+    "ageofweapons:saber_wood": [
+      1323,
+      -2.584
+    ],
+    "ageofweapons:saw_sword_diamond": [
+      743,
+      2.056
+    ],
+    "ageofweapons:saw_sword_gold": [
+      1335,
+      -2.68
+    ],
+    "ageofweapons:saw_sword_iron": [
+      1190,
+      -1.52
+    ],
+    "ageofweapons:saw_sword_netherite": [
+      544,
+      3.648
+    ],
+    "ageofweapons:saw_sword_stone": [
+      1267,
+      -2.136
+    ],
+    "ageofweapons:saw_sword_wood": [
+      1328,
+      -2.624
+    ],
+    "ageofweapons:scythe_diamond": [
+      737,
+      2.104
+    ],
+    "ageofweapons:scythe_gold": [
+      1320,
+      -2.56
+    ],
+    "ageofweapons:scythe_iron": [
+      1172,
+      -1.376
+    ],
+    "ageofweapons:scythe_netherite": [
+      611,
+      3.112
+    ],
+    "ageofweapons:scythe_stone": [
+      1251,
+      -2.008
+    ],
+    "ageofweapons:scythe_wood": [
+      1311,
+      -2.488
+    ],
+    "ageofweapons:skewer_diamond": [
+      1033,
+      -0.264
+    ],
+    "ageofweapons:skewer_gold": [
+      1426,
+      -3.408
+    ],
+    "ageofweapons:skewer_iron": [
+      1347,
+      -2.776
+    ],
+    "ageofweapons:skewer_netherite": [
+      898,
+      0.816
+    ],
+    "ageofweapons:skewer_stone": [
+      1390,
+      -3.12
+    ],
+    "ageofweapons:skewer_wood": [
+      1417,
+      -3.336
+    ],
+    "ageofweapons:spear_diamond": [
+      975,
+      0.2
+    ],
+    "ageofweapons:spear_gold": [
+      1439,
+      -3.512
+    ],
+    "ageofweapons:spear_iron": [
+      1327,
+      -2.616
+    ],
+    "ageofweapons:spear_netherite": [
+      775,
+      1.8
+    ],
+    "ageofweapons:spear_stone": [
+      1390,
+      -3.12
+    ],
+    "ageofweapons:spear_wood": [
+      1433,
+      -3.464
+    ],
+    "ageofweapons:sword_of_kings": [
+      296,
+      5.632
+    ],
+    "ageofweapons:tactical_knife_diamond": [
+      913,
+      0.696
+    ],
+    "ageofweapons:tactical_knife_gold": [
+      1413,
+      -3.304
+    ],
+    "ageofweapons:tactical_knife_iron": [
+      1321,
+      -2.568
+    ],
+    "ageofweapons:tactical_knife_netherite": [
+      756,
+      1.952
+    ],
+    "ageofweapons:tactical_knife_stone": [
+      1370,
+      -2.96
+    ],
+    "ageofweapons:tactical_knife_wood": [
+      1405,
+      -3.24
+    ],
+    "ageofweapons:titan_sword": [
+      1,
+      8.976
+    ],
+    "ageofweapons:trident_diamond": [
+      749,
+      2.008
+    ],
+    "ageofweapons:trident_gold": [
+      1266,
+      -2.128
+    ],
+    "ageofweapons:trident_iron": [
+      1112,
+      -0.896
+    ],
+    "ageofweapons:trident_netherite": [
+      524,
+      3.808
+    ],
+    "ageofweapons:trident_stone": [
+      1194,
+      -1.552
+    ],
+    "ageofweapons:trident_wood": [
+      1260,
+      -2.08
+    ],
+    "ageofweapons:wakizashi_diamond": [
+      756,
+      1.952
+    ],
+    "ageofweapons:wakizashi_gold": [
+      1303,
+      -2.424
+    ],
+    "ageofweapons:wakizashi_iron": [
+      1200,
+      -1.6
+    ],
+    "ageofweapons:wakizashi_netherite": [
+      584,
+      3.328
+    ],
+    "ageofweapons:wakizashi_stone": [
+      1259,
+      -2.072
+    ],
+    "ageofweapons:wakizashi_wood": [
+      1297,
+      -2.376
+    ],
+    "ageofweapons:waraxe_diamond": [
+      305,
+      5.56
+    ],
+    "ageofweapons:waraxe_gold": [
+      1090,
+      -0.72
+    ],
+    "ageofweapons:waraxe_iron": [
+      838,
+      1.296
+    ],
+    "ageofweapons:waraxe_netherite": [
+      40,
+      7.68
+    ],
+    "ageofweapons:waraxe_stone": [
+      971,
+      0.232
+    ],
+    "ageofweapons:waraxe_wood": [
+      1084,
+      -0.672
+    ],
+    "ageofweapons:warhammer_diamond": [
+      199,
+      6.408
+    ],
+    "ageofweapons:warhammer_gold": [
+      1026,
+      -0.208
+    ],
+    "ageofweapons:warhammer_iron": [
+      762,
+      1.904
+    ],
+    "ageofweapons:warhammer_netherite": [
+      1,
+      8.576
+    ],
+    "ageofweapons:warhammer_stone": [
+      901,
+      0.792
+    ],
+    "ageofweapons:warhammer_wood": [
+      1020,
+      -0.16
+    ],
+    "alexsmobs:skelewag_sword": [
+      1226,
+      -1.808
+    ],
+    "alexsmobs:tendon_whip": [
+      1225,
+      -1.8
+    ],
+    "armortoolsores:amethyst_axe": [
+      972,
+      0.224
+    ],
+    "armortoolsores:amethyst_sword": [
+      1048,
+      -0.384
+    ],
+    "armortoolsores:emerald_axe": [
+      579,
+      3.368
+    ],
+    "armortoolsores:emerald_sword": [
+      658,
+      2.736
+    ],
+    "armortoolsores:lapis_axe": [
+      1234,
+      -1.872
+    ],
+    "armortoolsores:lapis_sword": [
+      1306,
+      -2.448
+    ],
+    "armortoolsores:quartz_axe": [
+      1132,
+      -1.056
+    ],
+    "armortoolsores:quartz_sword": [
+      1175,
+      -1.4
+    ],
+    "armortoolsores:redstone_axe": [
+      1192,
+      -1.536
+    ],
+    "armortoolsores:redstone_sword": [
+      1306,
+      -2.448
+    ],
+    "armortoolsores:ruby_axe_r": [
+      943,
+      0.456
+    ],
+    "armortoolsores:ruby_sword_r": [
+      823,
+      1.416
+    ],
+    "armortoolsores:sapphire_axe_r": [
+      943,
+      0.456
+    ],
+    "armortoolsores:sapphire_sword_r": [
+      823,
+      1.416
+    ],
+    "armortoolsores:topaz_axe": [
+      1064,
+      -0.512
+    ],
+    "armortoolsores:topaz_sword": [
+      1222,
+      -1.776
+    ],
+    "cataclysm:athame": [
+      1263,
+      -2.104
+    ],
+    "cataclysm:black_steel_axe": [
+      937,
+      0.504
+    ],
+    "cataclysm:black_steel_sword": [
+      1075,
+      -0.6
+    ],
+    "cataclysm:final_fractal": [
+      1,
+      15.592
+    ],
+    "cataclysm:khopesh": [
+      1113,
+      -0.904
+    ],
+    "cataclysm:zweiender": [
+      1,
+      15.592
+    ],
+    "cataclysm_weaponery:ignitium_axe": [
+      1,
+      10.48
+    ],
+    "cataclysm_weaponery:ignitium_sword": [
+      1,
+      10.2
+    ],
+    "enderite:enderite_axe": [
+      216,
+      6.272
+    ],
+    "enderite:enderite_sword": [
+      328,
+      5.376
+    ],
+    "enderite:gilded_enderite_axe": [
+      119,
+      7.048
+    ],
+    "enderite:gilded_enderite_sword": [
+      235,
+      6.12
+    ],
+    "endlessbiomes:void_touched_blade": [
+      992,
+      0.064
+    ],
+    "gildednetherite:gilded_netherite_axe": [
+      313,
+      5.496
+    ],
+    "gildednetherite:gilded_netherite_sword": [
+      421,
+      4.632
+    ],
+    "minecraft:bow": [
+      1108,
+      0.0
+    ],
+    "minecraft:crossbow": [
+      1000,
+      0.0
+    ],
+    "minecraft:diamond_axe": [
+      693,
+      2.456
+    ],
+    "minecraft:diamond_sword": [
+      789,
+      1.688
+    ],
+    "minecraft:enchanted_book": [
+      1100,
+      0.0
+    ],
+    "minecraft:golden_axe": [
+      1248,
+      -1.984
+    ],
+    "minecraft:golden_sword": [
+      1362,
+      -2.896
+    ],
+    "minecraft:iron_axe": [
+      1087,
+      -0.696
+    ],
+    "minecraft:iron_sword": [
+      1225,
+      -1.8
+    ],
+    "minecraft:lingering_potion{Potion:\"minecraft:harming\"}": [
+      1050,
+      0.0
+    ],
+    "minecraft:netherite_axe": [
+      498,
+      4.016
+    ],
+    "minecraft:netherite_sword": [
+      602,
+      3.184
+    ],
+    "minecraft:snowball": [
+      1400,
+      0.0
+    ],
+    "minecraft:splash_potion{Potion:\"minecraft:harming\"}": [
+      1050,
+      0.0
+    ],
+    "minecraft:stone_axe": [
+      1122,
+      -0.976
+    ],
+    "minecraft:stone_sword": [
+      1298,
+      -2.384
+    ],
+    "minecraft:tnt": [
+      800,
+      0.0
+    ],
+    "minecraft:trident": [
+      900,
+      0.0
+    ],
+    "minecraft:wooden_axe": [
+      1240,
+      -1.92
+    ],
+    "minecraft:wooden_sword": [
+      1354,
+      -2.832
+    ],
+    "oresabovediamonds:amethyst_axe": [
+      320,
+      5.44
+    ],
+    "oresabovediamonds:amethyst_sword": [
+      424,
+      4.608
+    ],
+    "oresabovediamonds:black_opal_axe": [
+      1,
+      12.2
+    ],
+    "oresabovediamonds:black_opal_sword": [
+      1,
+      11.304
+    ],
+    "oresabovediamonds:netherite_opal_axe": [
+      1,
+      15.216
+    ],
+    "oresabovediamonds:netherite_opal_sword": [
+      1,
+      14.256
+    ],
+    "upgradednetherite:corrupt_upgraded_netherite_axe": [
+      498,
+      4.016
+    ],
+    "upgradednetherite:corrupt_upgraded_netherite_bow": [
+      916,
+      0.0
+    ],
+    "upgradednetherite:corrupt_upgraded_netherite_crossbow": [
+      1000,
+      0.0
+    ],
+    "upgradednetherite:corrupt_upgraded_netherite_sword": [
+      602,
+      3.184
+    ],
+    "upgradednetherite:echo_upgraded_netherite_axe": [
+      498,
+      4.016
+    ],
+    "upgradednetherite:echo_upgraded_netherite_bow": [
+      916,
+      0.0
+    ],
+    "upgradednetherite:echo_upgraded_netherite_crossbow": [
+      1000,
+      0.0
+    ],
+    "upgradednetherite:echo_upgraded_netherite_sword": [
+      602,
+      3.184
+    ],
+    "upgradednetherite:ender_upgraded_netherite_axe": [
+      498,
+      4.016
+    ],
+    "upgradednetherite:ender_upgraded_netherite_bow": [
+      916,
+      0.0
+    ],
+    "upgradednetherite:ender_upgraded_netherite_crossbow": [
+      1000,
+      0.0
+    ],
+    "upgradednetherite:ender_upgraded_netherite_sword": [
+      602,
+      3.184
+    ],
+    "upgradednetherite:feather_upgraded_netherite_axe": [
+      498,
+      4.016
+    ],
+    "upgradednetherite:feather_upgraded_netherite_bow": [
+      916,
+      0.0
+    ],
+    "upgradednetherite:feather_upgraded_netherite_crossbow": [
+      1000,
+      0.0
+    ],
+    "upgradednetherite:feather_upgraded_netherite_sword": [
+      602,
+      3.184
+    ],
+    "upgradednetherite:fire_upgraded_netherite_axe": [
+      498,
+      4.016
+    ],
+    "upgradednetherite:fire_upgraded_netherite_bow": [
+      916,
+      0.0
+    ],
+    "upgradednetherite:fire_upgraded_netherite_crossbow": [
+      1000,
+      0.0
+    ],
+    "upgradednetherite:fire_upgraded_netherite_sword": [
+      602,
+      3.184
+    ],
+    "upgradednetherite:gold_upgraded_netherite_axe": [
+      498,
+      4.016
+    ],
+    "upgradednetherite:gold_upgraded_netherite_bow": [
+      916,
+      0.0
+    ],
+    "upgradednetherite:gold_upgraded_netherite_crossbow": [
+      1000,
+      0.0
+    ],
+    "upgradednetherite:gold_upgraded_netherite_sword": [
+      602,
+      3.184
+    ],
+    "upgradednetherite:netherite_bow": [
+      916,
+      0.0
+    ],
+    "upgradednetherite:netherite_crossbow": [
+      1000,
+      0.0
+    ],
+    "upgradednetherite:phantom_upgraded_netherite_axe": [
+      498,
+      4.016
+    ],
+    "upgradednetherite:phantom_upgraded_netherite_bow": [
+      916,
+      0.0
+    ],
+    "upgradednetherite:phantom_upgraded_netherite_crossbow": [
+      1000,
+      0.0
+    ],
+    "upgradednetherite:phantom_upgraded_netherite_sword": [
+      602,
+      3.184
+    ],
+    "upgradednetherite:poison_upgraded_netherite_axe": [
+      498,
+      4.016
+    ],
+    "upgradednetherite:poison_upgraded_netherite_bow": [
+      916,
+      0.0
+    ],
+    "upgradednetherite:poison_upgraded_netherite_crossbow": [
+      1000,
+      0.0
+    ],
+    "upgradednetherite:poison_upgraded_netherite_sword": [
+      602,
+      3.184
+    ],
+    "upgradednetherite:water_upgraded_netherite_axe": [
+      498,
+      4.016
+    ],
+    "upgradednetherite:water_upgraded_netherite_bow": [
+      916,
+      0.0
+    ],
+    "upgradednetherite:water_upgraded_netherite_crossbow": [
+      1000,
+      0.0
+    ],
+    "upgradednetherite:water_upgraded_netherite_sword": [
+      602,
+      3.184
+    ],
+    "upgradednetherite:wither_upgraded_netherite_axe": [
+      498,
+      4.016
+    ],
+    "upgradednetherite:wither_upgraded_netherite_bow": [
+      916,
+      0.0
+    ],
+    "upgradednetherite:wither_upgraded_netherite_crossbow": [
+      1000,
+      0.0
+    ],
+    "upgradednetherite:wither_upgraded_netherite_sword": [
+      602,
+      3.184
+    ],
+    "upgradednetherite_ultimate:ultimate_upgraded_netherite_axe": [
+      498,
+      4.016
+    ],
+    "upgradednetherite_ultimate:ultimate_upgraded_netherite_bow": [
+      916,
+      0.0
+    ],
+    "upgradednetherite_ultimate:ultimate_upgraded_netherite_crossbow": [
+      1000,
+      0.0
+    ],
+    "upgradednetherite_ultimate:ultimate_upgraded_netherite_sword": [
+      602,
+      3.184
+    ]
+  },
+  "OFFHAND": {
+    "ageofweapons:shield_diamond": [
+      1350,
+      0.0
+    ],
+    "ageofweapons:shield_gold": [
+      1350,
+      0.0
+    ],
+    "ageofweapons:shield_iron": [
+      1350,
+      0.0
+    ],
+    "ageofweapons:shield_netherite": [
+      1350,
+      0.0
+    ],
+    "ageofweapons:shield_stone": [
+      1350,
+      0.0
+    ],
+    "ageofweapons:shield_wood": [
+      1350,
+      0.0
+    ],
+    "cataclysm:black_steel_targe": [
+      1350,
+      0.0
+    ],
+    "minecraft:ender_pearl": [
+      1100,
+      0.0
+    ],
+    "minecraft:flint_and_steel": [
+      1200,
+      0.0
+    ],
+    "minecraft:lava_bucket": [
+      900,
+      0.0
+    ],
+    "minecraft:shield": [
+      1350,
+      0.0
+    ],
+    "upgradednetherite:corrupt_upgraded_netherite_shield": [
+      1350,
+      0.0
+    ],
+    "upgradednetherite:echo_upgraded_netherite_shield": [
+      1350,
+      0.0
+    ],
+    "upgradednetherite:ender_upgraded_netherite_shield": [
+      1350,
+      0.0
+    ],
+    "upgradednetherite:feather_upgraded_netherite_shield": [
+      1350,
+      0.0
+    ],
+    "upgradednetherite:fire_upgraded_netherite_shield": [
+      1350,
+      0.0
+    ],
+    "upgradednetherite:gold_upgraded_netherite_shield": [
+      1350,
+      0.0
+    ],
+    "upgradednetherite:netherite_shield": [
+      1350,
+      0.0
+    ],
+    "upgradednetherite:phantom_upgraded_netherite_shield": [
+      1350,
+      0.0
+    ],
+    "upgradednetherite:poison_upgraded_netherite_shield": [
+      1350,
+      0.0
+    ],
+    "upgradednetherite:water_upgraded_netherite_shield": [
+      1350,
+      0.0
+    ],
+    "upgradednetherite:wither_upgraded_netherite_shield": [
+      1350,
+      0.0
+    ],
+    "upgradednetherite_ultimate:ultimate_upgraded_netherite_shield": [
+      1350,
+      0.0
+    ]
+  },
+  "FEET": {
+    "ageofweapons:caveman_boots": [
+      1401,
+      -3.208
+    ],
+    "alexsmobs:flying_fish_boots": [
+      1298,
+      -2.384
+    ],
+    "alexsmobs:roadrunner_boots": [
+      737,
+      2.104
+    ],
+    "armortoolsores:amethyst_boots": [
+      169,
+      6.648
+    ],
+    "armortoolsores:emerald_boots": [
+      317,
+      5.464
+    ],
+    "armortoolsores:lapis_boots": [
+      887,
+      0.904
+    ],
+    "armortoolsores:quartz_boots": [
+      747,
+      2.024
+    ],
+    "armortoolsores:redstone_armor_boots": [
+      1057,
+      -0.456
+    ],
+    "armortoolsores:ruby_armor_boots": [
+      1,
+      11.48
+    ],
+    "armortoolsores:sapphire_armor_boots": [
+      1,
+      11.48
+    ],
+    "armortoolsores:topaz_armor_boots": [
+      665,
+      2.68
+    ],
+    "cataclysm:cursium_boots": [
+      1,
+      17.568
+    ],
+    "cataclysm:ignitium_boots": [
+      1,
+      22.32
+    ],
+    "enderite:enderite_boots": [
+      1,
+      12.88
+    ],
+    "enderite:gilded_enderite_boots": [
+      1,
+      13.472
+    ],
+    "endlessbiomes:anklor_shell_armour_boots": [
+      176,
+      6.592
+    ],
+    "endlessbiomes:void_touched_boots_boots": [
+      894,
+      0.848
+    ],
+    "gildednetherite:gilded_netherite_boots": [
+      1,
+      8.864
+    ],
+    "minecraft:chainmail_boots": [
+      1098,
+      -0.784
+    ],
+    "minecraft:diamond_boots": [
+      444,
+      4.448
+    ],
+    "minecraft:golden_boots": [
+      1201,
+      -1.608
+    ],
+    "minecraft:iron_boots": [
+      954,
+      0.368
+    ],
+    "minecraft:leather_boots": [
+      1356,
+      -2.848
+    ],
+    "minecraft:netherite_boots": [
+      361,
+      5.112
+    ],
+    "mutantmonsters:mutant_skeleton_boots": [
+      542,
+      3.664
+    ],
+    "oresabovediamonds:amethyst_boots": [
+      1,
+      11.544
+    ],
+    "oresabovediamonds:black_opal_boots": [
+      1,
+      18.584
+    ],
+    "oresabovediamonds:netherite_opal_boots": [
+      1,
+      21.832
+    ],
+    "upgradednetherite:corrupt_upgraded_netherite_boots": [
+      1,
+      8.52
+    ],
+    "upgradednetherite:echo_upgraded_netherite_boots": [
+      1,
+      8.52
+    ],
+    "upgradednetherite:ender_upgraded_netherite_boots": [
+      1,
+      8.52
+    ],
+    "upgradednetherite:feather_upgraded_netherite_boots": [
+      1,
+      8.52
+    ],
+    "upgradednetherite:fire_upgraded_netherite_boots": [
+      1,
+      8.52
+    ],
+    "upgradednetherite:gold_upgraded_netherite_boots": [
+      1,
+      8.52
+    ],
+    "upgradednetherite:phantom_upgraded_netherite_boots": [
+      1,
+      8.52
+    ],
+    "upgradednetherite:poison_upgraded_netherite_boots": [
+      1,
+      8.52
+    ],
+    "upgradednetherite:water_upgraded_netherite_boots": [
+      1,
+      8.52
+    ],
+    "upgradednetherite:wither_upgraded_netherite_boots": [
+      1,
+      8.52
+    ],
+    "upgradednetherite_ultimate:ultimate_upgraded_netherite_boots": [
+      1,
+      8.52
+    ]
+  },
+  "LEGS": {
+    "ageofweapons:caveman_leggings": [
+      1401,
+      -3.208
+    ],
+    "alexsmobs:centipede_leggings": [
+      1,
+      13.328
+    ],
+    "alexsmobs:emu_leggings": [
+      520,
+      3.84
+    ],
+    "armortoolsores:amethyst_leggings": [
+      169,
+      6.648
+    ],
+    "armortoolsores:emerald_leggings": [
+      317,
+      5.464
+    ],
+    "armortoolsores:lapis_leggings": [
+      887,
+      0.904
+    ],
+    "armortoolsores:quartz_leggings": [
+      747,
+      2.024
+    ],
+    "armortoolsores:redstone_armor_leggings": [
+      1057,
+      -0.456
+    ],
+    "armortoolsores:ruby_armor_leggings": [
+      1,
+      11.48
+    ],
+    "armortoolsores:sapphire_armor_leggings": [
+      1,
+      11.48
+    ],
+    "armortoolsores:topaz_armor_leggings": [
+      665,
+      2.68
+    ],
+    "cataclysm:cursium_leggings": [
+      1,
+      17.568
+    ],
+    "cataclysm:ignitium_leggings": [
+      1,
+      22.32
+    ],
+    "enderite:enderite_leggings": [
+      1,
+      12.88
+    ],
+    "enderite:gilded_enderite_leggings": [
+      1,
+      13.472
+    ],
+    "endlessbiomes:anklor_shell_armour_leggings": [
+      176,
+      6.592
+    ],
+    "gildednetherite:gilded_netherite_leggings": [
+      1,
+      8.864
+    ],
+    "minecraft:chainmail_leggings": [
+      1098,
+      -0.784
+    ],
+    "minecraft:diamond_leggings": [
+      444,
+      4.448
+    ],
+    "minecraft:golden_leggings": [
+      1201,
+      -1.608
+    ],
+    "minecraft:iron_leggings": [
+      954,
+      0.368
+    ],
+    "minecraft:leather_leggings": [
+      1356,
+      -2.848
+    ],
+    "minecraft:netherite_leggings": [
+      361,
+      5.112
+    ],
+    "mutantmonsters:mutant_skeleton_leggings": [
+      542,
+      3.664
+    ],
+    "oresabovediamonds:amethyst_leggings": [
+      1,
+      11.544
+    ],
+    "oresabovediamonds:black_opal_leggings": [
+      1,
+      18.584
+    ],
+    "oresabovediamonds:netherite_opal_leggings": [
+      1,
+      21.832
+    ],
+    "upgradednetherite:corrupt_upgraded_netherite_leggings": [
+      1,
+      8.52
+    ],
+    "upgradednetherite:echo_upgraded_netherite_leggings": [
+      1,
+      8.52
+    ],
+    "upgradednetherite:ender_upgraded_netherite_leggings": [
+      1,
+      8.52
+    ],
+    "upgradednetherite:feather_upgraded_netherite_leggings": [
+      1,
+      8.52
+    ],
+    "upgradednetherite:fire_upgraded_netherite_leggings": [
+      1,
+      8.52
+    ],
+    "upgradednetherite:gold_upgraded_netherite_leggings": [
+      1,
+      8.52
+    ],
+    "upgradednetherite:phantom_upgraded_netherite_leggings": [
+      1,
+      8.52
+    ],
+    "upgradednetherite:poison_upgraded_netherite_leggings": [
+      1,
+      8.52
+    ],
+    "upgradednetherite:water_upgraded_netherite_leggings": [
+      1,
+      8.52
+    ],
+    "upgradednetherite:wither_upgraded_netherite_leggings": [
+      1,
+      8.52
+    ],
+    "upgradednetherite_ultimate:ultimate_upgraded_netherite_leggings": [
+      1,
+      8.52
+    ]
+  },
+  "CHEST": {
+    "ageofweapons:caveman_chestplate": [
+      1401,
+      -3.208
+    ],
+    "alexsmobs:crocodile_chestplate": [
+      194,
+      6.448
+    ],
+    "alexsmobs:rocky_chestplate": [
+      256,
+      5.952
+    ],
+    "alexsmobs:tarantula_hawk_elytra": [
+      897,
+      0.824
+    ],
+    "alexsmobs:unsettling_kimono": [
+      900,
+      0.8
+    ],
+    "armortoolsores:amethyst_chestplate": [
+      169,
+      6.648
+    ],
+    "armortoolsores:emerald_chestplate": [
+      317,
+      5.464
+    ],
+    "armortoolsores:lapis_chestplate": [
+      887,
+      0.904
+    ],
+    "armortoolsores:quartz_chestplate": [
+      747,
+      2.024
+    ],
+    "armortoolsores:redstone_armor_chestplate": [
+      1057,
+      -0.456
+    ],
+    "armortoolsores:ruby_armor_chestplate": [
+      1,
+      11.48
+    ],
+    "armortoolsores:sapphire_armor_chestplate": [
+      1,
+      11.48
+    ],
+    "armortoolsores:topaz_armor_chestplate": [
+      665,
+      2.68
+    ],
+    "cataclysm:bloom_stone_pauldrons": [
+      80,
+      7.36
+    ],
+    "cataclysm:bone_reptile_chestplate": [
+      1,
+      15.92
+    ],
+    "cataclysm:cursium_chestplate": [
+      1,
+      17.568
+    ],
+    "cataclysm:ignitium_chestplate": [
+      1,
+      22.32
+    ],
+    "cataclysm:ignitium_elytra_chestplate": [
+      1,
+      22.32
+    ],
+    "enderite:enderite_chestplate": [
+      1,
+      12.88
+    ],
+    "enderite:enderite_elytra_chestplate": [
+      1,
+      12.88
+    ],
+    "enderite:gilded_enderite_chestplate": [
+      1,
+      13.472
+    ],
+    "enderite:gilded_enderite_elytra_chestplate": [
+      1,
+      13.472
+    ],
+    "endlessbiomes:anklor_shell_armour_chestplate": [
+      176,
+      6.592
+    ],
+    "gildednetherite:gilded_netherite_chestplate": [
+      1,
+      8.864
+    ],
+    "minecraft:chainmail_chestplate": [
+      1098,
+      -0.784
+    ],
+    "minecraft:diamond_chestplate": [
+      444,
+      4.448
+    ],
+    "minecraft:golden_chestplate": [
+      1201,
+      -1.608
+    ],
+    "minecraft:iron_chestplate": [
+      954,
+      0.368
+    ],
+    "minecraft:leather_chestplate": [
+      1356,
+      -2.848
+    ],
+    "minecraft:netherite_chestplate": [
+      361,
+      5.112
+    ],
+    "mutantmonsters:mutant_skeleton_chestplate": [
+      542,
+      3.664
+    ],
+    "oresabovediamonds:amethyst_chestplate": [
+      1,
+      11.544
+    ],
+    "oresabovediamonds:black_opal_chestplate": [
+      1,
+      18.584
+    ],
+    "oresabovediamonds:netherite_opal_chestplate": [
+      1,
+      21.832
+    ],
+    "upgradednetherite:corrupt_upgraded_netherite_chestplate": [
+      1,
+      8.52
+    ],
+    "upgradednetherite:echo_upgraded_netherite_chestplate": [
+      1,
+      8.52
+    ],
+    "upgradednetherite:ender_upgraded_netherite_chestplate": [
+      1,
+      8.52
+    ],
+    "upgradednetherite:feather_upgraded_netherite_chestplate": [
+      1,
+      8.52
+    ],
+    "upgradednetherite:fire_upgraded_netherite_chestplate": [
+      1,
+      8.52
+    ],
+    "upgradednetherite:gold_upgraded_netherite_chestplate": [
+      1,
+      8.52
+    ],
+    "upgradednetherite:phantom_upgraded_netherite_chestplate": [
+      1,
+      8.52
+    ],
+    "upgradednetherite:poison_upgraded_netherite_chestplate": [
+      1,
+      8.52
+    ],
+    "upgradednetherite:water_upgraded_netherite_chestplate": [
+      1,
+      8.52
+    ],
+    "upgradednetherite:wither_upgraded_netherite_chestplate": [
+      1,
+      8.52
+    ],
+    "upgradednetherite_ultimate:ultimate_upgraded_netherite_chestplate": [
+      1,
+      8.52
+    ]
+  },
+  "HEAD": {
+    "ageofweapons:caveman_helmet": [
+      1401,
+      -3.208
+    ],
+    "alexsmobs:fedora": [
+      1099,
+      -0.792
+    ],
+    "alexsmobs:frontier_cap": [
+      657,
+      2.744
+    ],
+    "alexsmobs:froststalker_helmet": [
+      880,
+      0.96
+    ],
+    "alexsmobs:moose_headgear": [
+      716,
+      2.272
+    ],
+    "alexsmobs:novelty_hat": [
+      1103,
+      -0.824
+    ],
+    "alexsmobs:sombrero": [
+      1036,
+      -0.288
+    ],
+    "alexsmobs:spiked_turtle_shell": [
+      443,
+      4.456
+    ],
+    "armortoolsores:amethyst_helmet": [
+      169,
+      6.648
+    ],
+    "armortoolsores:emerald_helmet": [
+      317,
+      5.464
+    ],
+    "armortoolsores:lapis_helmet": [
+      887,
+      0.904
+    ],
+    "armortoolsores:quartz_helmet": [
+      747,
+      2.024
+    ],
+    "armortoolsores:redstone_armor_helmet": [
+      1057,
+      -0.456
+    ],
+    "armortoolsores:ruby_armor_helmet": [
+      1,
+      11.48
+    ],
+    "armortoolsores:sapphire_armor_helmet": [
+      1,
+      11.48
+    ],
+    "armortoolsores:topaz_armor_helmet": [
+      665,
+      2.68
+    ],
+    "cataclysm:bone_reptile_helmet": [
+      1,
+      15.92
+    ],
+    "cataclysm:cursium_helmet": [
+      1,
+      17.568
+    ],
+    "cataclysm:ignitium_helmet": [
+      1,
+      22.32
+    ],
+    "cataclysm:monstrous_helm": [
+      361,
+      5.112
+    ],
+    "enderite:enderite_helmet": [
+      1,
+      12.88
+    ],
+    "enderite:gilded_enderite_helmet": [
+      1,
+      13.472
+    ],
+    "endlessbiomes:anklor_shell_armour_helmet": [
+      176,
+      6.592
+    ],
+    "gildednetherite:gilded_netherite_helmet": [
+      1,
+      8.864
+    ],
+    "minecraft:chainmail_helmet": [
+      1098,
+      -0.784
+    ],
+    "minecraft:diamond_helmet": [
+      444,
+      4.448
+    ],
+    "minecraft:golden_helmet": [
+      1201,
+      -1.608
+    ],
+    "minecraft:iron_helmet": [
+      954,
+      0.368
+    ],
+    "minecraft:leather_helmet": [
+      1356,
+      -2.848
+    ],
+    "minecraft:netherite_helmet": [
+      361,
+      5.112
+    ],
+    "minecraft:turtle_helmet": [
+      865,
+      1.08
+    ],
+    "oresabovediamonds:amethyst_helmet": [
+      1,
+      11.544
+    ],
+    "oresabovediamonds:black_opal_helmet": [
+      1,
+      18.584
+    ],
+    "oresabovediamonds:netherite_opal_helmet": [
+      1,
+      21.832
+    ],
+    "upgradednetherite:corrupt_upgraded_netherite_helmet": [
+      1,
+      8.52
+    ],
+    "upgradednetherite:echo_upgraded_netherite_helmet": [
+      1,
+      8.52
+    ],
+    "upgradednetherite:ender_upgraded_netherite_helmet": [
+      1,
+      8.52
+    ],
+    "upgradednetherite:feather_upgraded_netherite_helmet": [
+      1,
+      8.52
+    ],
+    "upgradednetherite:fire_upgraded_netherite_helmet": [
+      1,
+      8.52
+    ],
+    "upgradednetherite:gold_upgraded_netherite_helmet": [
+      1,
+      8.52
+    ],
+    "upgradednetherite:phantom_upgraded_netherite_helmet": [
+      1,
+      8.52
+    ],
+    "upgradednetherite:poison_upgraded_netherite_helmet": [
+      1,
+      8.52
+    ],
+    "upgradednetherite:water_upgraded_netherite_helmet": [
+      1,
+      8.52
+    ],
+    "upgradednetherite:wither_upgraded_netherite_helmet": [
+      1,
+      8.52
+    ],
+    "upgradednetherite_ultimate:ultimate_upgraded_netherite_helmet": [
+      1,
+      8.52
+    ]
+  }
+}
