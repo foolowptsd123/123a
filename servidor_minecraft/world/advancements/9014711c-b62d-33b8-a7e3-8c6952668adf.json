@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "upgradednetherite:recipes/essences/feather_essence": {
+    "criteria": {
+      "has_feather": "2025-07-05 19:22:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2025-07-04 20:32:53 +0000"
@@ -26,6 +32,12 @@
   "farmersdelight:recipes/farmersdelight/organic_compost_from_rotten_flesh": {
     "criteria": {
       "has_rotten_flesh": "2025-07-05 02:38:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-07-05 19:18:38 +0000"
     },
     "done": true
   },
@@ -1539,6 +1551,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-07-05 19:18:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-07-04 21:34:22 +0000"
@@ -2282,6 +2300,12 @@
   "alltheores:recipes/alltheores/tin_nugget_from_ingot": {
     "criteria": {
       "has_item": "2025-07-04 20:52:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-07-05 19:22:52 +0000"
     },
     "done": true
   },
