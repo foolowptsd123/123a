@@ -1040,6 +1040,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate_slab": "2025-07-05 16:44:22 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/alltheores/lead_ingot_from_raw": {
     "criteria": {
       "has_item": "2025-07-04 22:05:19 +0000"
