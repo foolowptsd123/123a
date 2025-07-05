@@ -14435,3 +14435,18 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [05Jul2025 21:06:44.606] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Jul2025 21:06:44.611] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [05Jul2025 21:08:56.782] [IO-Worker-236/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-242
+[05Jul2025 21:10:21.361] [IO-Worker-240/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-243
+[05Jul2025 21:11:44.605] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 21:11:44.610] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 21:14:00.511] [IO-Worker-240/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-244
+[05Jul2025 21:15:30.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has made the advancement [Glow and Behold!]
+[05Jul2025 21:16:28.113] [IO-Worker-244/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-245
+[05Jul2025 21:16:44.617] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 21:16:44.622] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 21:16:45.103] [IO-Worker-244/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-246
+[05Jul2025 21:17:24.392] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aqui_Si_Ban lost connection: Disconnected
+[05Jul2025 21:17:24.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban left the game
+[05Jul2025 21:17:24.445] [IO-Worker-240/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-247
+[05Jul2025 21:19:11.979] [Worker-Main60/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main248
+[05Jul2025 21:19:11.980] [Worker-Main60/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main249
+[05Jul2025 21:19:11.994] [IO-Worker-245/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-250
