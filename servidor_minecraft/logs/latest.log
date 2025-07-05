@@ -1732,3 +1732,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [05Jul2025 19:58:28.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban was shot by Skeleton
 [05Jul2025 19:58:30.071] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=227, y=113, z=-398} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=south,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
 [05Jul2025 19:58:37.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aqui_Si_Ban: Teleported Aqui_Si_Ban to 161.500000, -41.500000, 192.500000]
+[05Jul2025 19:58:55.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban was shot by Skeleton
+[05Jul2025 19:58:56.882] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=227, y=113, z=-398} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=south,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[05Jul2025 19:59:01.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aqui_Si_Ban: Teleported Aqui_Si_Ban to 154.500000, -38.500000, 178.500000]
+[05Jul2025 20:07:48.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban drowned
+[05Jul2025 20:07:49.634] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=227, y=113, z=-398} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=south,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[05Jul2025 20:08:30.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aqui_Si_Ban: Teleported Aqui_Si_Ban to 187.500000, -2.500000, 189.500000]

@@ -12478,3 +12478,22 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [05Jul2025 19:58:28.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban was shot by Skeleton
 [05Jul2025 19:58:30.071] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=227, y=113, z=-398} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=south,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
 [05Jul2025 19:58:37.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aqui_Si_Ban: Teleported Aqui_Si_Ban to 161.500000, -41.500000, 192.500000]
+[05Jul2025 19:58:55.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban was shot by Skeleton
+[05Jul2025 19:58:56.882] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=227, y=113, z=-398} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=south,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[05Jul2025 19:59:01.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aqui_Si_Ban: Teleported Aqui_Si_Ban to 154.500000, -38.500000, 178.500000]
+[05Jul2025 20:01:15.060] [IO-Worker-201/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-208
+[05Jul2025 20:01:15.064] [IO-Worker-205/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-209
+[05Jul2025 20:01:15.064] [IO-Worker-201/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-210
+[05Jul2025 20:01:44.595] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 20:01:44.600] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 20:05:18.538] [IO-Worker-201/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-211
+[05Jul2025 20:06:26.734] [IO-Worker-211/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-212
+[05Jul2025 20:06:44.597] [IO-Worker-211/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-213
+[05Jul2025 20:06:44.600] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 20:06:44.605] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 20:07:48.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban drowned
+[05Jul2025 20:07:49.041] [IO-Worker-201/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-214
+[05Jul2025 20:07:49.150] [IO-Worker-201/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-215
+[05Jul2025 20:07:49.634] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=227, y=113, z=-398} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=south,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[05Jul2025 20:08:30.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aqui_Si_Ban: Teleported Aqui_Si_Ban to 187.500000, -2.500000, 189.500000]
+[05Jul2025 20:08:30.523] [IO-Worker-213/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-216
