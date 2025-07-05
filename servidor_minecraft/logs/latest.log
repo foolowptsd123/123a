@@ -1601,3 +1601,10 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [05Jul2025 17:48:13.154] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: blackdesfail[/127.195.151.45:42949] logged in with entity id 23786 at (174.75396129412692, 112.0, -478.7363982984062)
 [05Jul2025 17:48:13.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail joined the game
 [05Jul2025 17:51:09.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was blown up by Creeper
+[05Jul2025 18:04:59.442] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blackdesfail moved wrongly!
+[05Jul2025 18:05:40.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was shot by Skeleton
+[05Jul2025 18:05:40.396] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[05Jul2025 18:05:40.396] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 3 is dual wielding: false
+[05Jul2025 18:05:40.396] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[05Jul2025 18:05:40.398] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[05Jul2025 18:05:40.398] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
