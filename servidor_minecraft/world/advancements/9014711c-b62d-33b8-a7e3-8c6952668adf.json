@@ -161,6 +161,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/rice_bag": {
+    "criteria": {
+      "has_rice": "2025-07-05 20:20:41 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/stove": {
     "criteria": {
       "has_campfire": "2025-07-05 19:07:10 +0000"
@@ -224,6 +230,12 @@
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2025-07-05 03:09:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-07-05 20:20:14 +0000"
     },
     "done": true
   },
@@ -443,6 +455,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-07-05 20:08:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_carpet": {
     "criteria": {
       "has_red_wool": "2025-07-05 18:32:26 +0000"
@@ -452,6 +470,12 @@
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2025-07-04 20:31:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-07-05 20:15:35 +0000"
     },
     "done": true
   },
@@ -650,6 +674,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-07-05 20:20:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2025-07-04 19:51:21 +0000"
@@ -665,6 +695,12 @@
   "upgradednetherite:recipes/essences/poison_essence": {
     "criteria": {
       "has_spider_eye": "2025-07-05 03:19:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-07-05 20:18:04 +0000"
     },
     "done": true
   },
@@ -701,6 +737,12 @@
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2025-07-04 21:31:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-07-05 20:15:35 +0000"
     },
     "done": true
   },
@@ -764,9 +806,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-07-05 20:08:19 +0000"
+    },
+    "done": true
+  },
   "toms_storage:unlock_netherite": {
     "criteria": {
       "inv_changed-netherite": "2025-07-05 01:55:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-05 20:20:14 +0000"
     },
     "done": true
   },
@@ -797,6 +851,12 @@
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-07-05 02:22:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-07-05 20:20:14 +0000"
     },
     "done": true
   },
@@ -1089,6 +1149,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-07-05 20:18:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2025-07-05 19:33:58 +0000"
@@ -1122,6 +1188,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:birch_forest": "2025-07-04 19:51:17 +0000",
+      "minecraft:beach": "2025-07-05 20:18:47 +0000",
       "minecraft:river": "2025-07-04 21:03:17 +0000",
       "minecraft:dripstone_caves": "2025-07-05 03:19:28 +0000",
       "minecraft:forest": "2025-07-04 19:48:40 +0000",
@@ -1152,6 +1219,12 @@
     "criteria": {
       "has_the_recipe": "2025-07-04 21:06:23 +0000",
       "has_sleeping_bag": "2025-07-04 21:06:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-07-05 20:22:35 +0000"
     },
     "done": true
   },
@@ -1551,6 +1624,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-07-05 20:22:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2025-07-04 21:05:38 +0000"
@@ -1571,9 +1650,11 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-07-05 20:09:10 +0000",
       "bread": "2025-07-04 21:24:44 +0000",
       "golden_apple": "2025-07-05 19:56:04 +0000",
-      "rotten_flesh": "2025-07-04 21:10:45 +0000"
+      "rotten_flesh": "2025-07-04 21:10:45 +0000",
+      "suspicious_stew": "2025-07-05 20:22:35 +0000"
     },
     "done": false
   },
@@ -1721,6 +1802,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-07-05 20:20:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-04 20:54:36 +0000"
@@ -1859,6 +1946,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-07-05 20:17:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-04 22:51:31 +0000"
@@ -1988,6 +2081,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-07-04 21:05:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-07-05 20:22:35 +0000"
     },
     "done": true
   },
@@ -2184,6 +2283,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "rice": "2025-07-05 20:20:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-04 21:27:54 +0000"
@@ -2193,6 +2298,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/bone_broth": {
     "criteria": {
       "has_bone": "2025-07-05 02:22:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-05 20:20:41 +0000"
     },
     "done": true
   },
@@ -2244,6 +2355,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-07-05 20:08:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-07-04 19:51:21 +0000"
@@ -2277,6 +2394,12 @@
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-04 20:54:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-07-05 20:17:30 +0000"
     },
     "done": true
   },
@@ -2325,6 +2448,12 @@
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-07-04 21:31:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-07-05 20:15:35 +0000"
     },
     "done": true
   },
@@ -2407,6 +2536,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-07-05 20:13:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2025-07-04 21:05:38 +0000"
@@ -2440,6 +2575,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-07-05 02:53:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/cooked_rice": {
+    "criteria": {
+      "has_rice": "2025-07-05 20:20:41 +0000"
     },
     "done": true
   },
