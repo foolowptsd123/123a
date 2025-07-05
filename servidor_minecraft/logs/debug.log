@@ -14496,3 +14496,17 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [05Jul2025 21:58:16.889] [Worker-Main267/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main267 shutdown
 [05Jul2025 21:58:21.587] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main268
 [05Jul2025 21:59:33.334] [Worker-Main268/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main268 shutdown
+[05Jul2025 22:00:47.347] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main269
+[05Jul2025 22:01:44.600] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 22:01:44.605] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 22:01:44.816] [IO-Worker-258/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-270
+[05Jul2025 22:04:00.885] [Worker-Main269/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main269 shutdown
+[05Jul2025 22:04:26.236] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main271
+[05Jul2025 22:05:45.937] [Worker-Main271/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main271 shutdown
+[05Jul2025 22:06:44.598] [IO-Worker-258/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-272
+[05Jul2025 22:06:44.598] [IO-Worker-270/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-273
+[05Jul2025 22:06:44.599] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 22:06:44.604] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 22:07:16.639] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main274
+[05Jul2025 22:08:16.640] [Worker-Main274/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main274 shutdown
+[05Jul2025 22:09:19.386] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main275
