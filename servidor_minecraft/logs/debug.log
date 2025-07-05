@@ -14483,3 +14483,16 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [05Jul2025 21:46:44.597] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Jul2025 21:46:44.603] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [05Jul2025 21:46:44.808] [IO-Worker-258/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-263
+[05Jul2025 21:51:44.596] [IO-Worker-258/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-264
+[05Jul2025 21:51:44.597] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 21:51:44.602] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 21:52:47.537] [Worker-Main262/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main262 shutdown
+[05Jul2025 21:53:54.385] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main265
+[05Jul2025 21:54:54.386] [Worker-Main265/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main265 shutdown
+[05Jul2025 21:56:44.599] [IO-Worker-258/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-266
+[05Jul2025 21:56:44.600] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 21:56:44.605] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 21:57:00.884] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main267
+[05Jul2025 21:58:16.889] [Worker-Main267/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main267 shutdown
+[05Jul2025 21:58:21.587] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main268
+[05Jul2025 21:59:33.334] [Worker-Main268/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main268 shutdown
