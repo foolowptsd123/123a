@@ -125,6 +125,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2025-07-05 20:49:25 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/alltheores/copper_gear": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/copper]_ingot": "2025-07-05 02:38:12 +0000"
