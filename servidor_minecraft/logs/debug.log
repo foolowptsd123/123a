@@ -9914,3 +9914,27 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [05Jul2025 16:54:08.376] [IO-Worker-37/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-41
 [05Jul2025 16:55:13.499] [IO-Worker-37/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-42
 [05Jul2025 16:56:26.691] [IO-Worker-42/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-43
+[05Jul2025 16:56:41.257] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 16:56:41.263] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 16:59:05.397] [IO-Worker-41/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-44
+[05Jul2025 16:59:05.398] [IO-Worker-37/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-45
+[05Jul2025 17:00:53.200] [IO-Worker-41/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-46
+[05Jul2025 17:01:41.252] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 17:01:41.259] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 17:02:03.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was shot by Skeleton
+[05Jul2025 17:02:03.563] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[05Jul2025 17:02:03.563] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 5 is dual wielding: false
+[05Jul2025 17:02:03.563] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[05Jul2025 17:02:03.564] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[05Jul2025 17:02:03.564] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[05Jul2025 17:02:04.492] [IO-Worker-45/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-47
+[05Jul2025 17:02:04.493] [IO-Worker-47/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-48
+[05Jul2025 17:02:04.511] [IO-Worker-46/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-49
+[05Jul2025 17:02:26.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was shot by Mutant Skeleton
+[05Jul2025 17:02:27.903] [IO-Worker-45/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-50
+[05Jul2025 17:02:36.948] [IO-Worker-50/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-51
+[05Jul2025 17:04:58.038] [IO-Worker-48/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-52
+[05Jul2025 17:04:58.046] [IO-Worker-48/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-53
+[05Jul2025 17:06:41.254] [IO-Worker-53/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-54
+[05Jul2025 17:06:41.260] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 17:06:41.266] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
