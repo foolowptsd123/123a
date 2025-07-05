@@ -1785,3 +1785,30 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [05Jul2025 20:23:13.142] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@226f354b
 [05Jul2025 20:23:13.146] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: blackdesfail[/127.195.151.45:52111] logged in with entity id 73467 at (271.39121561458364, 126.0, -384.08597900625034)
 [05Jul2025 20:23:13.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail joined the game
+[05Jul2025 20:30:48.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban has made the advancement [Glow and Behold!]
+[05Jul2025 20:35:11.836] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blackdesfail lost connection: Disconnected
+[05Jul2025 20:35:11.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail left the game
+[05Jul2025 20:35:17.776] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[05Jul2025 20:35:17.879] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[05Jul2025 20:35:17.946] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7b7100f6[id=<null>,name=blackdesfail,properties={},legacy=false] (/127.195.151.45:47165) lost connection: Disconnected
+[05Jul2025 20:35:27.984] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[05Jul2025 20:35:28.077] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[05Jul2025 20:35:28.168] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[05Jul2025 20:35:28.168] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[05Jul2025 20:35:28.260] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[05Jul2025 20:35:28.260] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[05Jul2025 20:35:28.351] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[05Jul2025 20:35:28.351] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[05Jul2025 20:35:28.442] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[05Jul2025 20:35:28.442] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[05Jul2025 20:35:28.535] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[05Jul2025 20:35:28.535] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[05Jul2025 20:35:29.180] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[05Jul2025 20:35:29.317] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[05Jul2025 20:35:29.337] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[05Jul2025 20:35:29.377] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[05Jul2025 20:35:32.091] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@48ab8b6c
+[05Jul2025 20:35:32.096] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: blackdesfail[/127.195.151.45:45863] logged in with entity id 76306 at (275.2600028974128, 125.0, -376.6455416036646)
+[05Jul2025 20:35:32.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail joined the game
+[05Jul2025 20:35:52.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has made the advancement [Cover Me with Diamonds]
+[05Jul2025 20:37:19.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has made the advancement [Bonfire Lit]
