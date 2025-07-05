@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "8ee55147-1e45-3b94-88b3-e892d49e9186",
+    "name": "blackdesfail",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
