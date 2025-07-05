@@ -1608,3 +1608,33 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [05Jul2025 18:05:40.396] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
 [05Jul2025 18:05:40.398] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
 [05Jul2025 18:05:40.398] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[05Jul2025 18:07:53.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban was slain by Zombie
+[05Jul2025 18:16:29.188] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aqui_Si_Ban lost connection: Timed out
+[05Jul2025 18:16:29.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban left the game
+[05Jul2025 18:16:29.237] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[05Jul2025 18:16:35.749] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[05Jul2025 18:16:35.940] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[05Jul2025 18:16:35.940] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[05Jul2025 18:16:35.940] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[05Jul2025 18:16:35.941] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[05Jul2025 18:16:36.029] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[05Jul2025 18:16:36.029] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[05Jul2025 18:16:36.029] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[05Jul2025 18:16:36.029] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[05Jul2025 18:16:36.029] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[05Jul2025 18:16:36.135] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[05Jul2025 18:16:36.181] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[05Jul2025 18:16:37.914] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[05Jul2025 18:16:38.856] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[05Jul2025 18:16:38.857] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[05Jul2025 18:16:40.916] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[05Jul2025 18:16:41.691] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5da2efd7
+[05Jul2025 18:16:41.697] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Aqui_Si_Ban[/127.244.41.13:50649] logged in with entity id 32303 at (238.68584977774648, 110.08111832401161, -426.36300136546845)
+[05Jul2025 18:16:41.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban joined the game
+[05Jul2025 18:24:10.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was slain by Enderman
+[05Jul2025 18:24:29.298] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aqui_Si_Ban moved too quickly! -9.86929162305367,-1.992947337168033,-2.7882310308863794
+[05Jul2025 18:24:55.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban was slain by Enderman
+[05Jul2025 18:25:04.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was slain by Enderman
+[05Jul2025 18:25:18.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban was slain by Enderman
+[05Jul2025 18:25:56.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was slain by Enderman
+[05Jul2025 18:27:12.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban has made the advancement [Amateur Archaeologist]
