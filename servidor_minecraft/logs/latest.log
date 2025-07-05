@@ -1706,3 +1706,29 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [05Jul2025 19:28:13.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban was slain by Zombie
 [05Jul2025 19:28:14.557] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=227, y=113, z=-398} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=south,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
 [05Jul2025 19:28:37.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aqui_Si_Ban: Teleported Aqui_Si_Ban to 281.500000, 37.500000, 8.500000]
+[05Jul2025 19:48:33.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban was slain by Zombie
+[05Jul2025 19:48:33.395] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[05Jul2025 19:48:33.395] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 3 is dual wielding: false
+[05Jul2025 19:48:33.395] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[05Jul2025 19:48:33.396] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[05Jul2025 19:48:33.396] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[05Jul2025 19:48:34.911] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=227, y=113, z=-398} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=south,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[05Jul2025 19:48:42.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aqui_Si_Ban: Teleported Aqui_Si_Ban to 187.500000, -29.500000, 68.500000]
+[05Jul2025 19:56:17.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban was slain by Zombie
+[05Jul2025 19:56:18.978] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=227, y=113, z=-398} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=south,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[05Jul2025 19:56:26.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aqui_Si_Ban: Teleported Aqui_Si_Ban to 153.500000, -45.500000, 174.500000]
+[05Jul2025 19:56:34.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban was blown up by Creeper
+[05Jul2025 19:56:36.518] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=227, y=113, z=-398} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=south,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[05Jul2025 19:56:45.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aqui_Si_Ban: Teleported Aqui_Si_Ban to 152.500000, -41.500000, 176.500000]
+[05Jul2025 19:56:53.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban was shot by Skeleton
+[05Jul2025 19:56:55.457] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=227, y=113, z=-398} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=south,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[05Jul2025 19:57:00.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aqui_Si_Ban: Teleported Aqui_Si_Ban to 152.500000, -46.500000, 183.500000]
+[05Jul2025 19:57:06.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban was slain by Zombie
+[05Jul2025 19:57:08.457] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=227, y=113, z=-398} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=south,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[05Jul2025 19:57:13.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aqui_Si_Ban: Teleported Aqui_Si_Ban to 158.500000, -45.500000, 171.500000]
+[05Jul2025 19:58:10.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban was shot by Skeleton
+[05Jul2025 19:58:12.106] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=227, y=113, z=-398} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=south,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[05Jul2025 19:58:17.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aqui_Si_Ban: Teleported Aqui_Si_Ban to 161.500000, -41.500000, 192.500000]
+[05Jul2025 19:58:28.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban was shot by Skeleton
+[05Jul2025 19:58:30.071] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=227, y=113, z=-398} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=south,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[05Jul2025 19:58:37.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aqui_Si_Ban: Teleported Aqui_Si_Ban to 161.500000, -41.500000, 192.500000]
