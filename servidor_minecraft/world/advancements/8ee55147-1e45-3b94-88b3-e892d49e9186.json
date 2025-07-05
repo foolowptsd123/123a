@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-07-05 18:34:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2025-07-04 20:37:17 +0000"
@@ -20,6 +26,12 @@
   "farmersdelight:recipes/farmersdelight/organic_compost_from_rotten_flesh": {
     "criteria": {
       "has_rotten_flesh": "2025-07-05 02:20:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-07-05 18:37:05 +0000"
     },
     "done": true
   },
@@ -553,6 +565,7 @@
       "minecraft:creeper": "2025-07-05 18:03:19 +0000",
       "minecraft:slime": "2025-07-04 22:58:00 +0000",
       "minecraft:phantom": "2025-07-04 21:15:07 +0000",
+      "minecraft:zombified_piglin": "2025-07-05 18:38:46 +0000",
       "minecraft:witch": "2025-07-05 03:11:08 +0000",
       "minecraft:enderman": "2025-07-04 20:42:48 +0000",
       "minecraft:zombie": "2025-07-04 20:52:49 +0000",
@@ -635,6 +648,12 @@
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_leggings": "2025-07-04 21:16:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-07-05 18:34:30 +0000"
     },
     "done": true
   },
@@ -1343,6 +1362,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-07-05 18:37:27 +0000"
+    },
+    "done": false
+  },
   "comforts:sleeping_bag_cyan_from_white": {
     "criteria": {
       "has_sleeping_bag": "2025-07-04 21:08:19 +0000"
@@ -1427,6 +1452,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-07-05 18:34:30 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/wheat_dough_from_eggs": {
     "criteria": {
       "has_wheat": "2025-07-05 02:11:12 +0000"
@@ -1496,6 +1527,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-07-04 22:56:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-07-05 18:37:26 +0000"
     },
     "done": true
   },
@@ -1674,6 +1711,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2025-07-04 20:36:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-07-05 18:37:05 +0000"
     },
     "done": true
   },
@@ -2049,6 +2092,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-07-05 18:37:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-07-04 20:59:10 +0000"
@@ -2307,6 +2356,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-05 18:34:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-07-04 21:17:59 +0000"
@@ -2316,6 +2371,12 @@
   "alltheores:recipes/alltheores/raw_lead_from_block": {
     "criteria": {
       "has_item": "2025-07-05 03:00:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-07-05 18:38:13 +0000"
     },
     "done": true
   },

@@ -1638,3 +1638,66 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [05Jul2025 18:25:18.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban was slain by Enderman
 [05Jul2025 18:25:56.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was slain by Enderman
 [05Jul2025 18:27:12.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban has made the advancement [Amateur Archaeologist]
+[05Jul2025 18:37:05.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has made the advancement [Who is Cutting Onions?]
+[05Jul2025 18:37:26.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has made the advancement [We Need to Go Deeper]
+[05Jul2025 18:37:26.434] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aqui_Si_Ban moved too quickly! 1.080056378036744,-0.5800000131130219,-10.047147999294737
+[05Jul2025 18:37:26.492] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3365ms or 67 ticks behind
+[05Jul2025 18:37:50.492] [Worker-Main75/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[05Jul2025 18:37:50.512] [Worker-Main75/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[05Jul2025 18:38:47.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was slain by Zombified Piglin
+[05Jul2025 18:39:32.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban has made the advancement [We Need to Go Deeper]
+[05Jul2025 18:40:18.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was doomed to fall by Zombified Piglin
+[05Jul2025 18:41:26.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban was slain by Zombified Piglin
+[05Jul2025 18:42:23.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban was slain by Zombified Piglin
+[05Jul2025 18:42:58.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was slain by Zombified Piglin
+[05Jul2025 18:43:31.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban was slain by Zombified Piglin
+[05Jul2025 18:46:17.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban tried to swim in lava to escape Zombified Piglin
+[05Jul2025 18:47:45.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban was slain by Zombified Piglin
+[05Jul2025 18:48:27.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Aqui_Si_Ban a server operator
+[05Jul2025 18:56:53.070] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blackdesfail moved wrongly!
+[05Jul2025 19:02:21.899] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blackdesfail lost connection: Disconnected
+[05Jul2025 19:02:21.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail left the game
+[05Jul2025 19:02:42.439] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[05Jul2025 19:02:42.545] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[05Jul2025 19:02:42.642] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[05Jul2025 19:02:42.643] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[05Jul2025 19:02:42.647] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[05Jul2025 19:02:42.746] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[05Jul2025 19:02:42.850] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[05Jul2025 19:02:42.850] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[05Jul2025 19:02:42.850] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[05Jul2025 19:02:42.950] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[05Jul2025 19:02:42.991] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[05Jul2025 19:02:43.044] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[05Jul2025 19:02:43.702] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[05Jul2025 19:02:43.789] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[05Jul2025 19:02:43.794] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[05Jul2025 19:02:44.445] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[05Jul2025 19:02:46.546] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@622e9aa7
+[05Jul2025 19:02:46.552] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: blackdesfail[/127.195.151.45:50199] logged in with entity id 50209 at (-519.6186126949126, 76.0, -469.39185187632637)
+[05Jul2025 19:02:46.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail joined the game
+[05Jul2025 19:04:27.157] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aqui_Si_Ban moved too quickly! 6.72891997163336,-0.504799122994072,7.62243170207995
+[05Jul2025 19:14:04.342] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blackdesfail lost connection: Disconnected
+[05Jul2025 19:14:04.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail left the game
+[05Jul2025 19:14:15.284] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[05Jul2025 19:14:15.381] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[05Jul2025 19:14:15.476] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[05Jul2025 19:14:15.476] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[05Jul2025 19:14:15.577] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[05Jul2025 19:14:15.577] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[05Jul2025 19:14:15.671] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[05Jul2025 19:14:15.671] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[05Jul2025 19:14:15.767] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[05Jul2025 19:14:15.768] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[05Jul2025 19:14:15.868] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[05Jul2025 19:14:15.868] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[05Jul2025 19:14:16.488] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[05Jul2025 19:14:16.673] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[05Jul2025 19:14:16.673] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[05Jul2025 19:14:16.749] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[05Jul2025 19:14:19.392] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5b882f34
+[05Jul2025 19:14:19.397] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: blackdesfail[/127.195.151.45:46333] logged in with entity id 55922 at (-186.78617029313472, 88.0, -92.44602786803311)
+[05Jul2025 19:14:19.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail joined the game
+[05Jul2025 19:16:17.643] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=227, y=113, z=-398} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=south,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[05Jul2025 19:16:38.340] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blackdesfail lost connection: Disconnected
+[05Jul2025 19:16:38.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail left the game
