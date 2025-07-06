@@ -1532,3 +1532,22 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [06Jul2025 19:41:28.895] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blackdesfail lost connection: Timed out
 [06Jul2025 19:41:28.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail left the game
 [06Jul2025 19:41:28.961] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[06Jul2025 20:00:14.686] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[06Jul2025 20:00:14.788] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[06Jul2025 20:00:14.792] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[06Jul2025 20:00:14.888] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[06Jul2025 20:00:14.894] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[06Jul2025 20:00:14.984] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[06Jul2025 20:00:14.985] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[06Jul2025 20:00:15.086] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[06Jul2025 20:00:15.087] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[06Jul2025 20:00:15.185] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[06Jul2025 20:00:15.283] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[06Jul2025 20:00:15.284] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[06Jul2025 20:00:16.002] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[06Jul2025 20:00:16.298] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[06Jul2025 20:00:16.332] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[06Jul2025 20:00:16.333] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[06Jul2025 20:00:18.743] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4fef305f
+[06Jul2025 20:00:18.751] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: blackdesfail[/127.171.249.231:46281] logged in with entity id 3691 at (145.30000001192093, 119.0, -489.51215169767687)
+[06Jul2025 20:00:18.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail joined the game
