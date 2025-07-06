@@ -10325,3 +10325,19 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [06Jul2025 20:06:35.739] [Worker-Main59/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main59 shutdown
 [06Jul2025 20:07:37.842] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main66
 [06Jul2025 20:07:37.893] [IO-Worker-63/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-67
+[06Jul2025 20:08:41.696] [Worker-Main66/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main66 shutdown
+[06Jul2025 20:08:58.051] [IO-Worker-67/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-68
+[06Jul2025 20:08:58.057] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2025 20:08:58.063] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2025 20:10:12.390] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main69
+[06Jul2025 20:11:12.390] [Worker-Main69/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main69 shutdown
+[06Jul2025 20:13:23.191] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main70
+[06Jul2025 20:13:58.054] [IO-Worker-67/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-71
+[06Jul2025 20:13:58.055] [IO-Worker-68/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-72
+[06Jul2025 20:13:58.056] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2025 20:13:58.061] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2025 20:14:23.191] [Worker-Main70/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main70 shutdown
+[06Jul2025 20:15:39.189] [Server thread/DEBUG] [mixin/]: Mixing pathfinding.FlyNodeMixin from improvedmobs.mixins.json into net.minecraft.world.level.pathfinder.SwimNodeEvaluator
+[06Jul2025 20:15:39.189] [Server thread/DEBUG] [mixin/]: improvedmobs.mixins.json:pathfinding.FlyNodeMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[06Jul2025 20:15:52.193] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main73
+[06Jul2025 20:17:08.988] [Worker-Main73/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main73 shutdown
