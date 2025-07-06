@@ -10341,3 +10341,50 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [06Jul2025 20:15:39.189] [Server thread/DEBUG] [mixin/]: improvedmobs.mixins.json:pathfinding.FlyNodeMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
 [06Jul2025 20:15:52.193] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main73
 [06Jul2025 20:17:08.988] [Worker-Main73/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main73 shutdown
+[06Jul2025 20:18:58.057] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2025 20:18:58.063] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2025 20:18:58.187] [IO-Worker-72/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-74
+[06Jul2025 20:20:56.189] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main75
+[06Jul2025 20:21:56.190] [Worker-Main75/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main75 shutdown
+[06Jul2025 20:23:05.439] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main76
+[06Jul2025 20:23:58.052] [IO-Worker-67/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-77
+[06Jul2025 20:23:58.058] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2025 20:23:58.063] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2025 20:24:05.440] [Worker-Main76/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main76 shutdown
+[06Jul2025 20:24:26.782] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main78
+[06Jul2025 20:24:30.636] [Worker-Main78/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main79
+[06Jul2025 20:24:30.636] [Worker-Main78/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main80
+[06Jul2025 20:24:38.737] [Server thread/DEBUG] [mixin/]: Mixing allocations.do_nothing.PiglinAiMixin from saturn.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[06Jul2025 20:24:38.737] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[06Jul2025 20:24:51.945] [IO-Worker-67/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-81
+[06Jul2025 20:24:51.951] [IO-Worker-77/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-82
+[06Jul2025 20:24:51.952] [IO-Worker-77/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-83
+[06Jul2025 20:24:51.952] [IO-Worker-81/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-84
+[06Jul2025 20:26:11.793] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgeEventHandler@1249b569 for service interface com.blamejared.clumps.platform.IEventHelper
+[06Jul2025 20:26:11.794] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgePlatformHelper@76c130bb for service interface com.blamejared.clumps.platform.IPlatformHelper
+[06Jul2025 20:26:40.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[06Jul2025 20:26:40.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[06Jul2025 20:26:40.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[06Jul2025 20:26:40.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[06Jul2025 20:26:40.424] [IO-Worker-72/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-85
+[06Jul2025 20:26:40.424] [IO-Worker-77/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-86
+[06Jul2025 20:26:40.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[06Jul2025 20:26:41.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[06Jul2025 20:26:41.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[06Jul2025 20:26:41.080] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2025 20:26:41.085] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2025 20:26:41.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06Jul2025 20:26:41.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06Jul2025 20:26:41.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06Jul2025 20:26:41.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[06Jul2025 20:26:41.107] [Worker-Main78/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main78 shutdown
+[06Jul2025 20:26:41.107] [Worker-Main80/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main80 shutdown
+[06Jul2025 20:26:41.107] [Worker-Main79/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main79 shutdown
+[06Jul2025 20:26:41.108] [Server thread/DEBUG] [SpectreLib/CONFIG]: Unloading server configs
+[06Jul2025 20:26:41.109] [Server thread/INFO] [Calio/]: Removing Dynamic Registries for: net.minecraft.server.dedicated.DedicatedServer@33c29580
+[06Jul2025 20:26:41.109] [Server thread/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing serverconfig directory : ./world/serverconfig
+[06Jul2025 20:26:41.110] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[06Jul2025 20:26:41.110] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file jei-server.toml changed, sending notifies
+[06Jul2025 20:26:41.110] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file jei-server.toml changed, sending notifies
+[06Jul2025 20:26:41.112] [Thread-0/DEBUG] [fuzs.puzzleslib.config.core.ForgeConfigFileTypeHandler/CONFIG]: Config file easymagic-server.toml changed, sending notifies
+[06Jul2025 20:26:41.112] [Thread-0/INFO] [Puzzles Lib/]: Unloading server config for easymagic

@@ -1551,3 +1551,16 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [06Jul2025 20:00:18.743] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4fef305f
 [06Jul2025 20:00:18.751] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: blackdesfail[/127.171.249.231:46281] logged in with entity id 3691 at (145.30000001192093, 119.0, -489.51215169767687)
 [06Jul2025 20:00:18.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail joined the game
+[06Jul2025 20:26:40.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[06Jul2025 20:26:40.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[06Jul2025 20:26:40.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[06Jul2025 20:26:40.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[06Jul2025 20:26:40.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[06Jul2025 20:26:41.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[06Jul2025 20:26:41.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[06Jul2025 20:26:41.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06Jul2025 20:26:41.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06Jul2025 20:26:41.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06Jul2025 20:26:41.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[06Jul2025 20:26:41.109] [Server thread/INFO] [Calio/]: Removing Dynamic Registries for: net.minecraft.server.dedicated.DedicatedServer@33c29580
+[06Jul2025 20:26:41.112] [Thread-0/INFO] [Puzzles Lib/]: Unloading server config for easymagic
