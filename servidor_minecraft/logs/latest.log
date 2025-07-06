@@ -1529,3 +1529,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [06Jul2025 19:12:28.209] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: blackdesfail[/127.171.249.231:36695] logged in with entity id 82 at (159.80159556708537, 89.0, -468.0011649764136)
 [06Jul2025 19:12:28.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail joined the game
 [06Jul2025 19:12:31.502] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3370ms or 67 ticks behind
+[06Jul2025 19:41:28.895] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blackdesfail lost connection: Timed out
+[06Jul2025 19:41:28.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail left the game
+[06Jul2025 19:41:28.961] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice

@@ -9901,3 +9901,27 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [06Jul2025 19:33:58.061] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [06Jul2025 19:33:58.067] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [06Jul2025 19:34:15.440] [Worker-Main32/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main32 shutdown
+[06Jul2025 19:38:58.058] [IO-Worker-31/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-36
+[06Jul2025 19:38:58.064] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2025 19:38:58.070] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2025 19:39:28.388] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main37
+[06Jul2025 19:41:27.789] [Worker-Main37/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main37 shutdown
+[06Jul2025 19:41:28.895] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blackdesfail lost connection: Timed out
+[06Jul2025 19:41:28.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail left the game
+[06Jul2025 19:41:28.922] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main38
+[06Jul2025 19:41:28.923] [Worker-Main38/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main39
+[06Jul2025 19:41:28.924] [Worker-Main38/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main40
+[06Jul2025 19:41:28.961] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[06Jul2025 19:41:28.976] [IO-Worker-36/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-41
+[06Jul2025 19:41:29.017] [IO-Worker-31/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-42
+[06Jul2025 19:41:29.036] [IO-Worker-36/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-43
+[06Jul2025 19:41:29.094] [IO-Worker-42/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-44
+[06Jul2025 19:41:29.102] [IO-Worker-41/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-45
+[06Jul2025 19:42:29.009] [Worker-Main38/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main38 shutdown
+[06Jul2025 19:43:29.009] [Worker-Main39/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main39 shutdown
+[06Jul2025 19:43:58.034] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-46
+[06Jul2025 19:43:58.035] [IO-Worker-46/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-47
+[06Jul2025 19:43:58.038] [IO-Worker-47/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-48
+[06Jul2025 19:43:58.038] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2025 19:43:58.046] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2025 19:44:29.009] [Worker-Main40/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main40 shutdown
