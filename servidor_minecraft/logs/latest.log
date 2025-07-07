@@ -1749,3 +1749,4 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [07Jul2025 21:58:48.368] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=35, y=16, z=52} BlockPos{x=34, y=16, z=49}
 [07Jul2025 21:58:48.418] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=35, y=16, z=52} BlockPos{x=34, y=16, z=49}
 [07Jul2025 21:58:48.468] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=35, y=16, z=52} BlockPos{x=34, y=16, z=49}
+[07Jul2025 22:02:52.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban has made the advancement [Hidden in the Depths]
