@@ -10379,3 +10379,56 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [07Jul2025 19:27:41.105] [IO-Worker-62/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-66
 [07Jul2025 19:28:39.497] [IO-Worker-62/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-67
 [07Jul2025 19:28:43.380] [IO-Worker-66/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-68
+[07Jul2025 19:29:40.979] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2025 19:29:40.984] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2025 19:31:49.917] [IO-Worker-66/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-69
+[07Jul2025 19:32:49.941] [IO-Worker-66/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-70
+[07Jul2025 19:32:58.814] [IO-Worker-62/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-71
+[07Jul2025 19:33:36.094] [IO-Worker-66/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-73
+[07Jul2025 19:33:36.094] [IO-Worker-69/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-72
+[07Jul2025 19:34:29.574] [Server thread/DEBUG] [mixin/]: Mixing allocations.do_nothing.AxolotlAiMixin from saturn.mixins.json into net.minecraft.world.entity.animal.axolotl.AxolotlAi
+[07Jul2025 19:34:41.004] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2025 19:34:41.010] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2025 19:35:39.251] [IO-Worker-71/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-74
+[07Jul2025 19:39:40.990] [IO-Worker-74/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-75
+[07Jul2025 19:39:40.992] [IO-Worker-71/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-76
+[07Jul2025 19:39:40.997] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2025 19:39:41.002] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2025 19:40:14.940] [IO-Worker-66/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-78
+[07Jul2025 19:40:14.940] [IO-Worker-75/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-77
+[07Jul2025 19:40:15.383] [IO-Worker-74/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-79
+[07Jul2025 19:41:46.878] [IO-Worker-78/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-80
+[07Jul2025 19:41:46.888] [IO-Worker-78/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-81
+[07Jul2025 19:41:46.888] [IO-Worker-80/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-82
+[07Jul2025 19:43:52.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> xaero-waypoint:end:E:-258:65:-1649:5:false:0:Internal-overworld-waypoints
+[07Jul2025 19:44:40.999] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2025 19:44:41.003] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2025 19:44:42.151] [IO-Worker-66/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-83
+[07Jul2025 19:47:07.414] [IO-Worker-81/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-84
+[07Jul2025 19:49:40.994] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2025 19:49:40.999] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2025 19:49:58.495] [IO-Worker-66/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-85
+[07Jul2025 19:49:58.498] [IO-Worker-84/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-86
+[07Jul2025 19:51:21.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban has made the advancement [Chest Slayer]
+[07Jul2025 19:52:42.145] [IO-Worker-81/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-87
+[07Jul2025 19:53:07.027] [IO-Worker-86/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-88
+[07Jul2025 19:54:10.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has made the advancement [Local Brewery]
+[07Jul2025 19:54:40.991] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2025 19:54:40.997] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2025 19:56:25.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban has made the advancement [Eye Spy]
+[07Jul2025 19:57:16.215] [IO-Worker-81/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-89
+[07Jul2025 19:58:54.973] [IO-Worker-89/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-90
+[07Jul2025 19:59:40.991] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2025 19:59:40.996] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2025 20:02:24.751] [IO-Worker-81/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-91
+[07Jul2025 20:04:33.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> zzz
+[07Jul2025 20:04:39.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> xx
+[07Jul2025 20:04:40.992] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2025 20:04:40.997] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2025 20:04:51.030] [IO-Worker-81/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-92
+[07Jul2025 20:04:51.033] [IO-Worker-91/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-93
+[07Jul2025 20:08:11.634] [IO-Worker-93/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-94
+[07Jul2025 20:09:29.916] [IO-Worker-91/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-95
+[07Jul2025 20:09:40.991] [IO-Worker-91/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-96
+[07Jul2025 20:09:40.993] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2025 20:09:40.998] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
