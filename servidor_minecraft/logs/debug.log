@@ -10572,3 +10572,116 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [07Jul2025 21:09:43.196] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [07Jul2025 21:10:50.572] [IO-Worker-164/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-170
 [07Jul2025 21:10:50.572] [IO-Worker-163/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-171
+[07Jul2025 21:13:03.953] [IO-Worker-164/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-172
+[07Jul2025 21:13:03.973] [IO-Worker-172/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-173
+[07Jul2025 21:13:03.973] [IO-Worker-164/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-174
+[07Jul2025 21:13:24.447] [IO-Worker-163/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-175
+[07Jul2025 21:13:45.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> voy a intentar conseguir fortuna 3
+[07Jul2025 21:13:54.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> ok
+[07Jul2025 21:14:12.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> consiguela por enchand porque por aldeanos sera mas demorado
+[07Jul2025 21:14:37.711] [IO-Worker-164/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-176
+[07Jul2025 21:14:43.206] [IO-Worker-164/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-177
+[07Jul2025 21:14:43.207] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2025 21:14:43.212] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2025 21:15:54.593] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-773, y=-23, z=-293} BlockPos{x=-773, y=-25, z=-293}
+[07Jul2025 21:15:54.717] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-773, y=-22, z=-293} BlockPos{x=-774, y=-23, z=-293}
+[07Jul2025 21:17:02.908] [IO-Worker-177/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-178
+[07Jul2025 21:18:32.258] [IO-Worker-176/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-179
+[07Jul2025 21:18:32.258] [IO-Worker-177/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-180
+[07Jul2025 21:19:43.186] [IO-Worker-180/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-181
+[07Jul2025 21:19:43.188] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2025 21:19:43.193] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2025 21:21:30.627] [IO-Worker-177/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-182
+[07Jul2025 21:21:59.936] [IO-Worker-177/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-183
+[07Jul2025 21:22:51.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban has completed the challenge [Hot Tourist Destinations]
+[07Jul2025 21:23:00.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> XD
+[07Jul2025 21:23:35.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> jkjkjkjkjjk
+[07Jul2025 21:24:06.146] [IO-Worker-183/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-184
+[07Jul2025 21:24:06.147] [IO-Worker-183/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-186
+[07Jul2025 21:24:06.147] [IO-Worker-181/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-185
+[07Jul2025 21:24:06.147] [IO-Worker-183/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-187
+[07Jul2025 21:24:42.317] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=137, y=16, z=338} BlockPos{x=139, y=15, z=338}
+[07Jul2025 21:24:43.197] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2025 21:24:43.202] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2025 21:26:26.412] [IO-Worker-187/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-188
+[07Jul2025 21:27:11.864] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 21:27:23.220] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-672, y=-26, z=-400} BlockPos{x=-672, y=-27, z=-401}
+[07Jul2025 21:27:30.767] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 21:27:31.960] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 21:27:32.461] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 21:27:33.562] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 21:27:36.166] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 21:27:37.361] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 21:27:38.760] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 21:28:02.494] [IO-Worker-181/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-189
+[07Jul2025 21:28:02.553] [IO-Worker-189/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-190
+[07Jul2025 21:28:02.554] [IO-Worker-177/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-191
+[07Jul2025 21:28:17.543] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=76, y=16, z=336} BlockPos{x=77, y=15, z=335}
+[07Jul2025 21:28:17.590] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=76, y=16, z=336} BlockPos{x=77, y=15, z=335}
+[07Jul2025 21:28:55.485] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=88, y=15, z=346} BlockPos{x=89, y=15, z=346}
+[07Jul2025 21:28:55.537] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=88, y=15, z=346} BlockPos{x=89, y=15, z=346}
+[07Jul2025 21:28:55.585] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=88, y=15, z=346} BlockPos{x=89, y=15, z=346}
+[07Jul2025 21:28:55.637] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=88, y=15, z=346} BlockPos{x=89, y=15, z=346}
+[07Jul2025 21:28:55.718] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=88, y=15, z=346} BlockPos{x=89, y=15, z=346}
+[07Jul2025 21:28:55.743] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=88, y=15, z=346} BlockPos{x=89, y=15, z=346}
+[07Jul2025 21:29:19.381] [IO-Worker-190/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-192
+[07Jul2025 21:29:43.187] [IO-Worker-181/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-193
+[07Jul2025 21:29:43.191] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2025 21:29:43.196] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2025 21:29:43.316] [IO-Worker-192/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-194
+[07Jul2025 21:29:43.316] [IO-Worker-193/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-195
+[07Jul2025 21:31:01.481] [IO-Worker-193/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-196
+[07Jul2025 21:31:48.120] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=105, y=15, z=404} BlockPos{x=105, y=16, z=403}
+[07Jul2025 21:33:47.867] [IO-Worker-190/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-197
+[07Jul2025 21:33:47.868] [IO-Worker-190/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-198
+[07Jul2025 21:33:47.871] [IO-Worker-190/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-199
+[07Jul2025 21:34:29.995] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=167, y=16, z=351} BlockPos{x=165, y=15, z=351}
+[07Jul2025 21:34:34.387] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=170, y=16, z=356} BlockPos{x=171, y=15, z=355}
+[07Jul2025 21:34:43.200] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2025 21:34:43.206] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2025 21:34:54.333] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=183, y=16, z=354} BlockPos{x=183, y=16, z=355}
+[07Jul2025 21:34:54.384] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=183, y=16, z=354} BlockPos{x=183, y=16, z=355}
+[07Jul2025 21:34:54.434] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=183, y=16, z=354} BlockPos{x=183, y=16, z=355}
+[07Jul2025 21:34:54.488] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=183, y=16, z=354} BlockPos{x=183, y=16, z=355}
+[07Jul2025 21:34:54.534] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=183, y=16, z=354} BlockPos{x=183, y=16, z=355}
+[07Jul2025 21:34:54.584] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=183, y=16, z=354} BlockPos{x=183, y=16, z=355}
+[07Jul2025 21:34:54.632] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=183, y=16, z=354} BlockPos{x=183, y=16, z=355}
+[07Jul2025 21:34:54.685] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=183, y=16, z=354} BlockPos{x=183, y=16, z=355}
+[07Jul2025 21:34:54.733] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=183, y=16, z=354} BlockPos{x=183, y=16, z=355}
+[07Jul2025 21:35:31.287] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=202, y=16, z=339} BlockPos{x=202, y=16, z=340}
+[07Jul2025 21:35:31.437] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=202, y=16, z=339} BlockPos{x=203, y=15, z=340}
+[07Jul2025 21:35:31.489] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=202, y=16, z=339} BlockPos{x=203, y=15, z=340}
+[07Jul2025 21:35:31.537] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=202, y=16, z=339} BlockPos{x=203, y=15, z=340}
+[07Jul2025 21:35:31.588] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=202, y=16, z=339} BlockPos{x=203, y=15, z=340}
+[07Jul2025 21:35:31.637] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=202, y=16, z=339} BlockPos{x=203, y=15, z=340}
+[07Jul2025 21:35:31.687] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=202, y=16, z=339} BlockPos{x=203, y=15, z=340}
+[07Jul2025 21:35:31.737] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=202, y=16, z=339} BlockPos{x=203, y=15, z=340}
+[07Jul2025 21:35:31.786] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=202, y=16, z=339} BlockPos{x=203, y=15, z=340}
+[07Jul2025 21:36:01.985] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=216, y=15, z=332} BlockPos{x=214, y=14, z=330}
+[07Jul2025 21:36:02.034] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=216, y=15, z=332} BlockPos{x=214, y=14, z=330}
+[07Jul2025 21:36:02.283] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=216, y=14, z=329} BlockPos{x=214, y=14, z=329}
+[07Jul2025 21:36:02.333] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=216, y=14, z=329} BlockPos{x=214, y=14, z=329}
+[07Jul2025 21:36:02.384] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=216, y=14, z=329} BlockPos{x=214, y=14, z=329}
+[07Jul2025 21:36:02.433] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=216, y=14, z=329} BlockPos{x=214, y=14, z=329}
+[07Jul2025 21:36:02.485] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=216, y=14, z=329} BlockPos{x=214, y=14, z=329}
+[07Jul2025 21:36:02.533] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=216, y=14, z=329} BlockPos{x=214, y=14, z=329}
+[07Jul2025 21:36:02.585] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=216, y=14, z=329} BlockPos{x=214, y=14, z=329}
+[07Jul2025 21:36:02.634] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=216, y=14, z=329} BlockPos{x=214, y=14, z=329}
+[07Jul2025 21:36:22.695] [IO-Worker-190/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-200
+[07Jul2025 21:36:22.695] [IO-Worker-199/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-201
+[07Jul2025 21:36:28.232] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=235, y=16, z=318} BlockPos{x=234, y=16, z=318}
+[07Jul2025 21:37:45.584] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=282, y=16, z=320} BlockPos{x=280, y=16, z=321}
+[07Jul2025 21:37:45.585] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=281, y=16, z=319} BlockPos{x=280, y=16, z=321}
+[07Jul2025 21:37:45.585] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=282, y=16, z=319} BlockPos{x=280, y=16, z=321}
+[07Jul2025 21:37:45.585] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=281, y=15, z=319} BlockPos{x=280, y=16, z=321}
+[07Jul2025 21:37:45.585] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=281, y=15, z=320} BlockPos{x=282, y=15, z=319}
+[07Jul2025 21:37:45.585] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=282, y=15, z=320} BlockPos{x=282, y=15, z=319}
+[07Jul2025 21:38:20.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> carre me enseraro en la habitacion de serna ayudame a arreglar un codigo
+[07Jul2025 21:39:16.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> Serna me enserraron en el nether ayudame a buscaar netherita
+[07Jul2025 21:39:43.190] [IO-Worker-200/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-202
+[07Jul2025 21:39:43.191] [IO-Worker-195/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-203
+[07Jul2025 21:39:43.191] [IO-Worker-199/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-204
+[07Jul2025 21:39:43.195] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2025 21:39:43.201] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2025 21:41:09.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> carre metete a la llamada porfa
+[07Jul2025 21:41:16.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> no

@@ -323,6 +323,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/aluminum_ingot_from_raw": {
+    "criteria": {
+      "has_item": "2025-07-07 21:35:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-07-04 20:37:17 +0000"
@@ -2348,6 +2354,12 @@
   "farmersdelight:recipes/farmersdelight/fried_egg_from_campfire_cooking": {
     "criteria": {
       "fried_egg": "2025-07-07 17:07:21 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/aluminum_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2025-07-07 21:35:14 +0000"
     },
     "done": true
   },
