@@ -1897,6 +1897,12 @@
     },
     "done": true
   },
+  "endlessbiomes:a_noble_sacrifice": {
+    "criteria": {
+      "a_noble_sacrifice": "2025-07-07 20:39:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_blue_dye": "2025-07-05 20:30:02 +0000"
@@ -2041,6 +2047,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/capsid": {
+    "criteria": {
+      "capsid": "2025-07-07 20:44:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-07-04 20:32:53 +0000"
@@ -2146,6 +2158,12 @@
   "minecraft:recipes/tools/golden_shovel": {
     "criteria": {
       "has_gold_ingot": "2025-07-05 02:53:38 +0000"
+    },
+    "done": true
+  },
+  "endlessbiomes:volcanic_glass": {
+    "criteria": {
+      "volcanic_glass": "2025-07-07 20:39:59 +0000"
     },
     "done": true
   },

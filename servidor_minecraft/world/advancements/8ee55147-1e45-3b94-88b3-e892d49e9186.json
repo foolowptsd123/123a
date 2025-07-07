@@ -167,6 +167,12 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-07-07 20:43:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-04 22:07:57 +0000"
@@ -428,6 +434,12 @@
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2025-07-05 18:12:13 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/raw_nickel_block": {
+    "criteria": {
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/nickel]": "2025-07-07 20:48:29 +0000"
     },
     "done": true
   },
@@ -2898,6 +2910,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/nickel_ingot_from_raw": {
+    "criteria": {
+      "has_item": "2025-07-07 20:48:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_fortress": {
     "criteria": {
       "in_better_fortress": "2025-07-07 19:00:30 +0000"
@@ -2919,6 +2937,12 @@
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-07 19:38:14 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/nickel_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2025-07-07 20:48:29 +0000"
     },
     "done": true
   },

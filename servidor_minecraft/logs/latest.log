@@ -1617,3 +1617,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [07Jul2025 20:35:41.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban has reached the goal [Sky's the Limit]
 [07Jul2025 20:39:54.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban has reached the goal [A Noble Sacrifice]
 [07Jul2025 20:39:59.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban has reached the goal [Volcanic Glass]
+[07Jul2025 20:43:30.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has reached the goal [Sky's the Limit]
+[07Jul2025 20:44:43.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban has made the advancement [Capsid-19]
+[07Jul2025 20:45:32.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> que
+[07Jul2025 21:00:45.317] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/53121, l='ServerLevel[world]', x=-806.30, y=64.58, z=-294.70] died, message: 'Villager was slain by Spider'
