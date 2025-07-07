@@ -1398,6 +1398,12 @@
     },
     "done": false
   },
+  "upgradednetherite:recipes/essences/phantom_essence": {
+    "criteria": {
+      "has_phantom_membrane": "2025-07-07 16:11:27 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_cyan_from_white": {
     "criteria": {
       "has_sleeping_bag": "2025-07-04 21:08:19 +0000"
