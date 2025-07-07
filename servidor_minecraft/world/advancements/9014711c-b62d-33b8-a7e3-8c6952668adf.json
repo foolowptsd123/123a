@@ -1384,6 +1384,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-07-07 16:27:03 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/alltheores/copper_rod": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/copper]_ingot": "2025-07-05 02:38:12 +0000"
