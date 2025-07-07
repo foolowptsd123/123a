@@ -2272,6 +2272,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-07-07 15:50:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-07-04 20:59:10 +0000"
@@ -2688,6 +2694,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-07-07 15:50:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2025-07-04 20:54:27 +0000"
@@ -2715,6 +2727,12 @@
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_glow_ink_sac": "2025-07-05 21:15:18 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/iron_ore_hammer": {
+    "criteria": {
+      "has_iron_block": "2025-07-07 15:50:30 +0000"
     },
     "done": true
   },

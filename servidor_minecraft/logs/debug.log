@@ -10249,3 +10249,29 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [07Jul2025 15:46:33.744] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [07Jul2025 15:48:03.315] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/world/level/chunk/storage/SectionStorage$Anonymous$93e664d6297f46eea88d975eadc26040 (originally com/abdelaziz/canary/mixin/ai/poi/SectionStorageMixin$1)
 [07Jul2025 15:48:40.391] [IO-Worker-6/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-16
+[07Jul2025 15:50:38.675] [IO-Worker-12/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-17
+[07Jul2025 15:51:33.692] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2025 15:51:33.692] [IO-Worker-15/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-18
+[07Jul2025 15:51:33.700] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2025 15:53:50.474] [IO-Worker-14/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-19
+[07Jul2025 15:54:51.759] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-21
+[07Jul2025 15:54:51.758] [IO-Worker-18/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-20
+[07Jul2025 15:54:52.191] [Worker-Main2/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterfortresses.mixins.json into net.minecraft.server.level.WorldGenRegion
+[07Jul2025 15:54:52.191] [Worker-Main2/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[07Jul2025 15:54:52.191] [Worker-Main2/DEBUG] [mixin/]: Mixing gen.chunk_region.WorldGenRegionMixin from canary.mixins.json into net.minecraft.server.level.WorldGenRegion
+[07Jul2025 15:54:52.194] [Worker-Main2/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[07Jul2025 15:54:52.194] [Worker-Main2/DEBUG] [mixin/]: Unexpected: Registered method getFirstPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[07Jul2025 15:54:52.194] [Worker-Main2/DEBUG] [mixin/]: Unexpected: Registered method getSize()I in net.minecraft.server.level.WorldGenRegion was not merged
+[07Jul2025 15:54:52.194] [Worker-Main2/DEBUG] [mixin/]: Unexpected: Registered method getLastPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[07Jul2025 15:54:52.194] [Worker-Main2/DEBUG] [mixin/]: Unexpected: Registered method getCache()Ljava/util/List; in net.minecraft.server.level.WorldGenRegion was not merged
+[07Jul2025 15:54:52.210] [IO-Worker-15/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-22
+[07Jul2025 15:54:52.210] [IO-Worker-15/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-23
+[07Jul2025 15:54:52.570] [Worker-Main2/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[07Jul2025 15:54:52.572] [Worker-Main2/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[07Jul2025 15:54:52.573] [Worker-Main2/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[07Jul2025 15:54:52.576] [Worker-Main2/DEBUG] [mixin/]: Unexpected: Registered method getPieceIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[07Jul2025 15:54:52.577] [Worker-Main2/DEBUG] [mixin/]: Unexpected: Registered method getJunctionIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[07Jul2025 15:56:33.693] [IO-Worker-20/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-24
+[07Jul2025 15:56:33.697] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2025 15:56:33.703] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2025 15:58:55.016] [IO-Worker-24/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-25
