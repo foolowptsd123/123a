@@ -1621,3 +1621,4 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [07Jul2025 20:44:43.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban has made the advancement [Capsid-19]
 [07Jul2025 20:45:32.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> que
 [07Jul2025 21:00:45.317] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/53121, l='ServerLevel[world]', x=-806.30, y=64.58, z=-294.70] died, message: 'Villager was slain by Spider'
+[07Jul2025 21:09:19.270] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=35, y=46, z=-28} BlockPos{x=35, y=46, z=-27}

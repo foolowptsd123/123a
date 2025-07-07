@@ -2716,6 +2716,7 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "sugar_cane": "2025-07-05 02:43:06 +0000",
+      "nether_wart": "2025-07-07 21:06:27 +0000",
       "carrot": "2025-07-05 02:29:02 +0000"
     },
     "done": false

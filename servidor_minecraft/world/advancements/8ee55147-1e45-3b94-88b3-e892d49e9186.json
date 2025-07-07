@@ -898,6 +898,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-07-07 21:08:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2025-07-04 22:47:18 +0000"
@@ -940,6 +946,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/platinum_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2025-07-07 21:07:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2025-07-07 17:10:35 +0000"
@@ -973,6 +985,12 @@
   "comforts:hammock_white": {
     "criteria": {
       "has_white_wool": "2025-07-04 21:17:59 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/raw_platinum_block": {
+    "criteria": {
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/platinum]": "2025-07-07 21:07:29 +0000"
     },
     "done": true
   },
@@ -1105,6 +1123,12 @@
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-07-04 21:12:07 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/platinum_ingot_from_raw": {
+    "criteria": {
+      "has_item": "2025-07-07 21:07:29 +0000"
     },
     "done": true
   },
@@ -1700,6 +1724,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-07-07 21:08:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2025-07-04 20:54:27 +0000"
@@ -2138,6 +2168,12 @@
   "minecraft:recipes/decorations/respawn_anchor": {
     "criteria": {
       "has_obsidian": "2025-07-05 18:37:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-07-07 21:08:52 +0000"
     },
     "done": true
   },
