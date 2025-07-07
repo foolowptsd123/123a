@@ -1595,3 +1595,17 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [07Jul2025 20:20:04.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has made the advancement [The End?]
 [07Jul2025 20:20:04.397] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2201ms or 44 ticks behind
 [07Jul2025 20:20:04.555] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blackdesfail moved too quickly! 348.334472643976,89.46415937495544,1649.3016466392016
+[07Jul2025 20:20:45.300] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase StrafePlayer (#1) on the server
+[07Jul2025 20:20:52.000] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase ChargingPlayer (#8) on the server
+[07Jul2025 20:21:10.201] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase HoldingPattern (#0) on the server
+[07Jul2025 20:21:20.810] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase StrafePlayer (#1) on the server
+[07Jul2025 20:21:22.401] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase ChargingPlayer (#8) on the server
+[07Jul2025 20:21:36.450] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase HoldingPattern (#0) on the server
+[07Jul2025 20:21:58.300] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase StrafePlayer (#1) on the server
+[07Jul2025 20:22:03.901] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase ChargeUp (#11) on the server
+[07Jul2025 20:22:06.399] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase SnatchPlayer (#12) on the server
+[07Jul2025 20:22:08.750] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase CarryPlayer (#13) on the server
+[07Jul2025 20:23:44.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban has made the advancement [Free the End]
+[07Jul2025 20:23:44.409] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase Dying (#9) on the server
+[07Jul2025 20:28:38.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has made the advancement [Ender Distancing]
+[07Jul2025 20:28:40.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has made the advancement [Capsid-19]

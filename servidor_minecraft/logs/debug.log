@@ -10464,3 +10464,39 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [07Jul2025 20:20:04.555] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blackdesfail moved too quickly! 348.334472643976,89.46415937495544,1649.3016466392016
 [07Jul2025 20:20:04.590] [IO-Worker-105/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-109
 [07Jul2025 20:20:05.725] [IO-Worker-105/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-110
+[07Jul2025 20:20:45.300] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase StrafePlayer (#1) on the server
+[07Jul2025 20:20:52.000] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase ChargingPlayer (#8) on the server
+[07Jul2025 20:21:10.201] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase HoldingPattern (#0) on the server
+[07Jul2025 20:21:17.968] [IO-Worker-105/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-111
+[07Jul2025 20:21:20.810] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase StrafePlayer (#1) on the server
+[07Jul2025 20:21:22.401] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase ChargingPlayer (#8) on the server
+[07Jul2025 20:21:36.450] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase HoldingPattern (#0) on the server
+[07Jul2025 20:21:58.300] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase StrafePlayer (#1) on the server
+[07Jul2025 20:22:03.901] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase ChargeUp (#11) on the server
+[07Jul2025 20:22:06.399] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase SnatchPlayer (#12) on the server
+[07Jul2025 20:22:08.750] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase CarryPlayer (#13) on the server
+[07Jul2025 20:22:45.987] [IO-Worker-105/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-112
+[07Jul2025 20:23:44.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban has made the advancement [Free the End]
+[07Jul2025 20:23:44.409] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase Dying (#9) on the server
+[07Jul2025 20:24:43.172] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2025 20:24:43.177] [IO-Worker-98/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-113
+[07Jul2025 20:24:43.177] [IO-Worker-107/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-114
+[07Jul2025 20:24:43.178] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2025 20:25:53.614] [IO-Worker-107/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-115
+[07Jul2025 20:26:14.679] [IO-Worker-107/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-116
+[07Jul2025 20:26:14.680] [IO-Worker-115/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-117
+[07Jul2025 20:26:14.680] [IO-Worker-98/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-118
+[07Jul2025 20:26:15.040] [IO-Worker-107/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-119
+[07Jul2025 20:26:15.041] [IO-Worker-119/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-120
+[07Jul2025 20:27:37.424] [IO-Worker-98/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-121
+[07Jul2025 20:27:37.426] [IO-Worker-116/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-122
+[07Jul2025 20:27:38.078] [IO-Worker-122/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-123
+[07Jul2025 20:27:38.078] [IO-Worker-116/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-124
+[07Jul2025 20:27:38.293] [IO-Worker-121/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-125
+[07Jul2025 20:28:38.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has made the advancement [Ender Distancing]
+[07Jul2025 20:28:40.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has made the advancement [Capsid-19]
+[07Jul2025 20:29:43.176] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2025 20:29:43.177] [IO-Worker-98/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-126
+[07Jul2025 20:29:43.181] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2025 20:30:06.667] [IO-Worker-98/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-127
+[07Jul2025 20:30:21.086] [IO-Worker-118/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-128
