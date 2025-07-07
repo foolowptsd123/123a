@@ -1798,3 +1798,4 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [07Jul2025 23:02:19.158] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-37, y=15, z=-330} BlockPos{x=-36, y=15, z=-330}
 [07Jul2025 23:02:19.206] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-37, y=15, z=-330} BlockPos{x=-36, y=15, z=-330}
 [07Jul2025 23:07:10.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban was slain by Zombified Piglin
+[07Jul2025 23:28:07.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban was slain by Zombified Piglin
