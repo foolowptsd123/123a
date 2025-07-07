@@ -1561,3 +1561,10 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [07Jul2025 19:03:14.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban has made the advancement [Nightmare Fuel]
 [07Jul2025 19:03:49.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has made the advancement [Into Fire]
 [07Jul2025 19:04:23.933] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=582, y=71, z=59} BlockPos{x=581, y=70, z=60}
+[07Jul2025 19:09:04.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban has made the advancement [A Terrible Fortress]
+[07Jul2025 19:09:11.161] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aqui_Si_Ban moved too quickly! -2.654338274492602,-0.41999998688697815,-9.720532791385583
+[07Jul2025 19:10:48.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban has made the advancement [Disme A Dozen]
+[07Jul2025 19:11:04.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> a
+[07Jul2025 19:11:37.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban has made the advancement [Barrel Booty]
+[07Jul2025 19:14:39.892] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=584, y=72, z=56} BlockPos{x=584, y=72, z=57}
+[07Jul2025 19:17:19.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban has made the advancement [Into Fire]
