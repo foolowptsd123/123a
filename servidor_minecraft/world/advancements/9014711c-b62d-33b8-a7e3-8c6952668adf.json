@@ -936,6 +936,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/platinum_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2025-07-07 21:45:29 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/alltheores/gold_gear": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/gold]_ingot": "2025-07-05 02:53:38 +0000"
@@ -963,6 +969,12 @@
   "comforts:hammock_white": {
     "criteria": {
       "has_white_wool": "2025-07-04 21:05:38 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/raw_platinum_block": {
+    "criteria": {
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/platinum]": "2025-07-07 21:45:29 +0000"
     },
     "done": true
   },
@@ -1083,6 +1095,12 @@
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-07-07 21:19:52 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/platinum_ingot_from_raw": {
+    "criteria": {
+      "has_item": "2025-07-07 21:45:29 +0000"
     },
     "done": true
   },
