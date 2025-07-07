@@ -1549,3 +1549,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [07Jul2025 15:42:12.598] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2f123a97
 [07Jul2025 15:42:12.610] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Aqui_Si_Ban[/127.244.41.13:44141] logged in with entity id 311 at (162.56054850408628, -27.0, 49.50696021827335)
 [07Jul2025 15:42:12.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban joined the game
+[07Jul2025 16:30:46.419] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of blackdesfail) moved wrongly! 0.26714690585805556
+[07Jul2025 16:30:46.474] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of blackdesfail) moved wrongly! 0.6605800900735517
+[07Jul2025 16:30:46.524] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of blackdesfail) moved wrongly! 1.0879940270353927
