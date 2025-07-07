@@ -10941,3 +10941,44 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [07Jul2025 23:31:33.409] [IO-Worker-297/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-301
 [07Jul2025 23:31:33.410] [IO-Worker-301/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-302
 [07Jul2025 23:31:33.410] [IO-Worker-300/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-303
+[07Jul2025 23:34:03.760] [IO-Worker-302/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-304
+[07Jul2025 23:34:43.167] [IO-Worker-304/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-305
+[07Jul2025 23:34:43.167] [IO-Worker-302/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-306
+[07Jul2025 23:34:43.169] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2025 23:34:43.174] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2025 23:36:11.390] [IO-Worker-302/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-307
+[07Jul2025 23:36:20.414] [IO-Worker-302/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-308
+[07Jul2025 23:36:20.415] [IO-Worker-301/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-309
+[07Jul2025 23:36:27.924] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-35, y=16, z=-317} BlockPos{x=-35, y=16, z=-318}
+[07Jul2025 23:36:27.976] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-35, y=16, z=-317} BlockPos{x=-35, y=16, z=-318}
+[07Jul2025 23:36:28.056] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-35, y=16, z=-317} BlockPos{x=-35, y=16, z=-318}
+[07Jul2025 23:36:28.075] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-35, y=16, z=-317} BlockPos{x=-35, y=16, z=-318}
+[07Jul2025 23:36:28.360] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-35, y=16, z=-317} BlockPos{x=-35, y=16, z=-318}
+[07Jul2025 23:36:28.411] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-35, y=16, z=-317} BlockPos{x=-35, y=16, z=-318}
+[07Jul2025 23:36:28.411] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-35, y=16, z=-317} BlockPos{x=-35, y=16, z=-318}
+[07Jul2025 23:36:28.412] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-35, y=16, z=-317} BlockPos{x=-35, y=16, z=-318}
+[07Jul2025 23:37:13.669] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-22, y=16, z=-318} BlockPos{x=-22, y=15, z=-318}
+[07Jul2025 23:37:13.869] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-23, y=15, z=-320} BlockPos{x=-24, y=14, z=-320}
+[07Jul2025 23:38:49.523] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2, y=14, z=-325} BlockPos{x=-2, y=14, z=-324}
+[07Jul2025 23:38:49.673] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2, y=14, z=-324} BlockPos{x=-1, y=15, z=-323}
+[07Jul2025 23:38:50.528] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2, y=15, z=-326} BlockPos{x=-2, y=16, z=-325}
+[07Jul2025 23:38:50.575] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2, y=15, z=-326} BlockPos{x=-2, y=16, z=-325}
+[07Jul2025 23:38:50.624] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2, y=15, z=-326} BlockPos{x=-2, y=16, z=-325}
+[07Jul2025 23:39:43.174] [IO-Worker-301/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-310
+[07Jul2025 23:39:43.175] [IO-Worker-302/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-311
+[07Jul2025 23:39:43.175] [IO-Worker-307/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-312
+[07Jul2025 23:39:43.178] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2025 23:39:43.183] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2025 23:40:58.425] [IO-Worker-311/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-313
+[07Jul2025 23:41:28.974] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=54, y=14, z=-316} BlockPos{x=55, y=15, z=-316}
+[07Jul2025 23:41:29.022] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=53, y=14, z=-314} BlockPos{x=55, y=15, z=-316}
+[07Jul2025 23:41:29.073] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=53, y=14, z=-314} BlockPos{x=55, y=15, z=-316}
+[07Jul2025 23:41:29.126] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=53, y=14, z=-314} BlockPos{x=55, y=15, z=-316}
+[07Jul2025 23:41:53.019] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=63, y=15, z=-320} BlockPos{x=63, y=15, z=-319}
+[07Jul2025 23:43:01.438] [IO-Worker-313/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-314
+[07Jul2025 23:43:01.449] [IO-Worker-313/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-315
+[07Jul2025 23:43:02.029] [IO-Worker-313/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-316
+[07Jul2025 23:43:02.030] [IO-Worker-316/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-317
+[07Jul2025 23:43:30.573] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=81, y=16, z=-322} BlockPos{x=80, y=16, z=-322}
+[07Jul2025 23:43:30.726] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=81, y=16, z=-322} BlockPos{x=80, y=15, z=-322}
+[07Jul2025 23:43:30.777] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=81, y=16, z=-322} BlockPos{x=81, y=15, z=-322}
