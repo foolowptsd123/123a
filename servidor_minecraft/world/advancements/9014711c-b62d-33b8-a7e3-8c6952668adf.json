@@ -1798,7 +1798,8 @@
       "bread": "2025-07-04 21:24:44 +0000",
       "golden_apple": "2025-07-05 19:56:04 +0000",
       "rotten_flesh": "2025-07-04 21:10:45 +0000",
-      "suspicious_stew": "2025-07-05 20:22:35 +0000"
+      "suspicious_stew": "2025-07-05 20:22:35 +0000",
+      "carrot": "2025-07-07 18:43:24 +0000"
     },
     "done": false
   },
@@ -2279,6 +2280,12 @@
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2025-07-04 20:32:17 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-07-07 18:34:52 +0000"
     },
     "done": true
   },
