@@ -1772,6 +1772,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/raw_osmium_block": {
+    "criteria": {
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/osmium]": "2025-07-07 22:27:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_chestplate": "2025-07-05 18:39:09 +0000"
@@ -2738,6 +2744,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/osmium_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2025-07-07 22:27:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-04 20:54:36 +0000"
@@ -2989,6 +3001,12 @@
   "alltheores:recipes/alltheores/nickel_ingot_from_raw_blasting": {
     "criteria": {
       "has_item": "2025-07-07 21:20:12 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/osmium_ingot_from_raw": {
+    "criteria": {
+      "has_item": "2025-07-07 22:27:51 +0000"
     },
     "done": true
   },
