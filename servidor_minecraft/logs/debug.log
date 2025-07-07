@@ -10281,3 +10281,58 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [07Jul2025 18:44:40.998] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [07Jul2025 18:47:15.291] [Worker-Main14/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main14 shutdown
 [07Jul2025 18:47:22.986] [Worker-Main17/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main26
+[07Jul2025 18:49:40.994] [IO-Worker-18/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-27
+[07Jul2025 18:49:40.996] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2025 18:49:41.002] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2025 18:51:41.114] [IO-Worker-27/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-28
+[07Jul2025 18:51:53.968] [IO-Worker-24/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-29
+[07Jul2025 18:51:54.814] [IO-Worker-27/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-30
+[07Jul2025 18:51:54.976] [IO-Worker-24/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-32
+[07Jul2025 18:51:54.976] [IO-Worker-28/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-33
+[07Jul2025 18:51:54.976] [IO-Worker-29/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-31
+[07Jul2025 18:51:55.469] [Worker-Main16/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterfortresses.mixins.json into net.minecraft.server.level.WorldGenRegion
+[07Jul2025 18:51:55.470] [Worker-Main16/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[07Jul2025 18:51:55.470] [Worker-Main16/DEBUG] [mixin/]: Mixing gen.chunk_region.WorldGenRegionMixin from canary.mixins.json into net.minecraft.server.level.WorldGenRegion
+[07Jul2025 18:51:55.474] [Worker-Main16/DEBUG] [mixin/]: Unexpected: Registered method getSize()I in net.minecraft.server.level.WorldGenRegion was not merged
+[07Jul2025 18:51:55.474] [Worker-Main16/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[07Jul2025 18:51:55.474] [Worker-Main16/DEBUG] [mixin/]: Unexpected: Registered method getCache()Ljava/util/List; in net.minecraft.server.level.WorldGenRegion was not merged
+[07Jul2025 18:51:55.474] [Worker-Main16/DEBUG] [mixin/]: Unexpected: Registered method getLastPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[07Jul2025 18:51:55.474] [Worker-Main16/DEBUG] [mixin/]: Unexpected: Registered method getFirstPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[07Jul2025 18:51:55.494] [Worker-Main26/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main34
+[07Jul2025 18:51:55.495] [Worker-Main17/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main35
+[07Jul2025 18:51:55.858] [Worker-Main26/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[07Jul2025 18:51:55.860] [Worker-Main26/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[07Jul2025 18:51:55.860] [Worker-Main26/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[07Jul2025 18:51:55.863] [Worker-Main26/DEBUG] [mixin/]: Unexpected: Registered method getPieceIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[07Jul2025 18:51:55.863] [Worker-Main26/DEBUG] [mixin/]: Unexpected: Registered method getJunctionIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[07Jul2025 18:52:01.415] [IO-Worker-29/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-36
+[07Jul2025 18:54:13.238] [Worker-Main16/DEBUG] [mixin/]: Mixing allocations.do_nothing.HoglinAiMixin from saturn.mixins.json into net.minecraft.world.entity.monster.hoglin.HoglinAi
+[07Jul2025 18:54:13.273] [Worker-Main34/DEBUG] [mixin/]: Mixing allocations.do_nothing.PiglinBruteAiMixin from saturn.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinBruteAi
+[07Jul2025 18:54:21.539] [IO-Worker-36/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-37
+[07Jul2025 18:54:40.882] [IO-Worker-28/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-38
+[07Jul2025 18:54:40.988] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2025 18:54:40.993] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2025 18:56:07.038] [IO-Worker-38/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-39
+[07Jul2025 18:56:07.383] [IO-Worker-39/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-40
+[07Jul2025 18:56:37.152] [IO-Worker-39/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-41
+[07Jul2025 18:56:39.433] [Worker-Main26/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[07Jul2025 18:56:42.880] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=132, y=95, z=191} BlockPos{x=132, y=95, z=190}
+[07Jul2025 18:59:30.215] [Server thread/DEBUG] [mixin/]: Mixing item.AccessorCooldownInstance from bookshelf.common.mixins.json into net.minecraft.world.item.ItemCooldowns$CooldownInstance
+[07Jul2025 18:59:40.983] [IO-Worker-41/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-42
+[07Jul2025 18:59:40.991] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2025 18:59:40.996] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2025 19:00:30.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has made the advancement [A Terrible Fortress]
+[07Jul2025 19:01:02.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban has made the advancement [Those Were the Days]
+[07Jul2025 19:01:40.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> xaero-waypoint:Shared Location:S:631:81:-37:0:false:0:Internal-the-nether-waypoints
+[07Jul2025 19:03:14.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban has made the advancement [Nightmare Fuel]
+[07Jul2025 19:03:49.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has made the advancement [Into Fire]
+[07Jul2025 19:04:23.933] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=582, y=71, z=59} BlockPos{x=581, y=70, z=60}
+[07Jul2025 19:04:40.987] [IO-Worker-42/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-43
+[07Jul2025 19:04:40.987] [IO-Worker-38/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-44
+[07Jul2025 19:04:40.987] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-45
+[07Jul2025 19:04:40.990] [IO-Worker-42/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-46
+[07Jul2025 19:04:41.000] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2025 19:04:41.007] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2025 19:05:50.448] [IO-Worker-46/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-47
+[07Jul2025 19:07:35.658] [IO-Worker-47/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-48
+[07Jul2025 19:07:35.658] [IO-Worker-47/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-49

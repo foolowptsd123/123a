@@ -1554,3 +1554,10 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [07Jul2025 18:39:08.526] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6d0cce2
 [07Jul2025 18:39:08.538] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: blackdesfail[/127.195.151.45:42451] logged in with entity id 1407 at (227.38860542938443, 113.0, -405.61827489876396)
 [07Jul2025 18:39:08.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail joined the game
+[07Jul2025 18:56:42.880] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=132, y=95, z=191} BlockPos{x=132, y=95, z=190}
+[07Jul2025 19:00:30.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has made the advancement [A Terrible Fortress]
+[07Jul2025 19:01:02.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban has made the advancement [Those Were the Days]
+[07Jul2025 19:01:40.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> xaero-waypoint:Shared Location:S:631:81:-37:0:false:0:Internal-the-nether-waypoints
+[07Jul2025 19:03:14.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban has made the advancement [Nightmare Fuel]
+[07Jul2025 19:03:49.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has made the advancement [Into Fire]
+[07Jul2025 19:04:23.933] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=582, y=71, z=59} BlockPos{x=581, y=70, z=60}

@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-07-07 19:00:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2025-07-07 16:08:01 +0000"
@@ -281,6 +287,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-07-07 18:52:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2025-07-04 21:34:22 +0000"
@@ -422,6 +434,12 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2025-07-04 21:35:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-07-07 19:00:51 +0000"
     },
     "done": true
   },
@@ -761,6 +779,12 @@
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2025-07-05 20:18:04 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-07-07 19:03:14 +0000"
     },
     "done": true
   },
@@ -1396,6 +1420,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-07-07 19:01:02 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/alltheores/copper_rod": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/copper]_ingot": "2025-07-05 02:38:12 +0000"
@@ -1452,7 +1482,9 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:nether_wastes": "2025-07-05 18:39:32 +0000"
+      "minecraft:crimson_forest": "2025-07-07 18:57:54 +0000",
+      "minecraft:nether_wastes": "2025-07-05 18:39:32 +0000",
+      "minecraft:soul_sand_valley": "2025-07-07 18:51:56 +0000"
     },
     "done": false
   },
@@ -1744,6 +1776,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-07-07 19:00:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2025-07-04 21:31:32 +0000"
@@ -1944,6 +1982,12 @@
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2025-07-07 16:25:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-07-07 19:00:51 +0000"
     },
     "done": true
   },
@@ -2307,6 +2351,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-07-07 18:52:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_candle": {
     "criteria": {
       "has_red_dye": "2025-07-05 21:14:56 +0000"
@@ -2455,6 +2505,12 @@
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-07-04 21:05:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-07-07 18:56:23 +0000"
     },
     "done": true
   },
@@ -2674,6 +2730,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-07-07 19:00:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-07-04 21:34:22 +0000"
@@ -2774,6 +2836,12 @@
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_glow_ink_sac": "2025-07-05 20:13:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-07-07 19:00:51 +0000"
     },
     "done": true
   },
