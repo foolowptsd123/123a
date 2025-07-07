@@ -10432,3 +10432,35 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [07Jul2025 20:09:40.991] [IO-Worker-91/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-96
 [07Jul2025 20:09:40.993] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [07Jul2025 20:09:40.998] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2025 20:10:26.310] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blackdesfail moved wrongly!
+[07Jul2025 20:11:03.681] [IO-Worker-91/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-97
+[07Jul2025 20:12:15.285] [IO-Worker-95/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-98
+[07Jul2025 20:12:15.589] [IO-Worker-97/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-99
+[07Jul2025 20:12:15.589] [IO-Worker-98/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-100
+[07Jul2025 20:12:16.060] [IO-Worker-100/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-101
+[07Jul2025 20:12:26.905] [IO-Worker-97/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-102
+[07Jul2025 20:14:33.930] [IO-Worker-102/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-103
+[07Jul2025 20:14:40.993] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2025 20:14:40.998] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2025 20:17:28.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has made the advancement [Eye Spy]
+[07Jul2025 20:19:40.976] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2025 20:19:40.980] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2025 20:19:46.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[07Jul2025 20:19:46.676] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2025 20:19:46.681] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2025 20:19:46.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[07Jul2025 20:20:01.112] [IO-Worker-98/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-104
+[07Jul2025 20:20:01.113] [IO-Worker-104/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-105
+[07Jul2025 20:20:01.123] [IO-Worker-104/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-106
+[07Jul2025 20:20:01.261] [IO-Worker-104/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-107
+[07Jul2025 20:20:01.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban has made the advancement [The End?]
+[07Jul2025 20:20:03.586] [Server thread/INFO] [net.minecraft.world.level.dimension.end.EndDragonFight/]: Scanning for legacy world dragon fight...
+[07Jul2025 20:20:03.587] [Server thread/INFO] [net.minecraft.world.level.dimension.end.EndDragonFight/]: Found that the dragon has not yet been killed in this world.
+[07Jul2025 20:20:04.343] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase Hover (#10) on the server
+[07Jul2025 20:20:04.344] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase HoldingPattern (#0) on the server
+[07Jul2025 20:20:04.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has made the advancement [The End?]
+[07Jul2025 20:20:04.397] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2201ms or 44 ticks behind
+[07Jul2025 20:20:04.475] [IO-Worker-98/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-108
+[07Jul2025 20:20:04.555] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blackdesfail moved too quickly! 348.334472643976,89.46415937495544,1649.3016466392016
+[07Jul2025 20:20:04.590] [IO-Worker-105/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-109
+[07Jul2025 20:20:05.725] [IO-Worker-105/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-110
