@@ -625,11 +625,13 @@
   },
   "enderite:end/explore_all_end_biomes": {
     "criteria": {
+      "small_end_islands": "2025-07-07 20:30:36 +0000",
       "end_midlands": "2025-07-07 20:28:27 +0000",
       "the_end": "2025-07-07 20:20:05 +0000",
-      "end_highlands": "2025-07-07 20:28:32 +0000"
+      "end_highlands": "2025-07-07 20:28:32 +0000",
+      "end_barrens": "2025-07-07 20:30:16 +0000"
     },
-    "done": false
+    "done": true
   },
   "comforts:hammock_red": {
     "criteria": {
@@ -2105,6 +2107,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2025-07-05 02:58:26 +0000",
+      "chorus_fruit": "2025-07-07 20:38:39 +0000",
       "baked_potato": "2025-07-05 03:54:14 +0000",
       "bread": "2025-07-04 20:53:21 +0000",
       "golden_apple": "2025-07-05 02:08:43 +0000",
