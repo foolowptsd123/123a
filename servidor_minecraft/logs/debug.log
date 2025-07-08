@@ -11531,3 +11531,18 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [08Jul2025 00:54:33.864] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aqui_Si_Ban moved too quickly! -0.19520380802495652,-10.583188926255858,-0.04515371554629155
 [08Jul2025 00:54:43.191] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [08Jul2025 00:54:43.195] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jul2025 00:55:36.577] [IO-Worker-381/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-382
+[08Jul2025 00:58:08.113] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aqui_Si_Ban lost connection: Disconnected
+[08Jul2025 00:58:08.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban left the game
+[08Jul2025 00:58:08.212] [IO-Worker-377/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-383
+[08Jul2025 00:58:08.213] [IO-Worker-383/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-384
+[08Jul2025 00:59:30.354] [IO-Worker-384/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-385
+[08Jul2025 00:59:43.167] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jul2025 00:59:43.172] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jul2025 01:03:27.804] [Worker-Main363/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main363 shutdown
+[08Jul2025 01:04:03.049] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-386
+[08Jul2025 01:04:03.049] [IO-Worker-386/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-387
+[08Jul2025 01:04:43.170] [IO-Worker-386/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-388
+[08Jul2025 01:04:43.170] [IO-Worker-386/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-389
+[08Jul2025 01:04:43.174] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jul2025 01:04:43.179] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
