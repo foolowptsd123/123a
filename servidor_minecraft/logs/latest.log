@@ -82,3 +82,42 @@
 [08Jul2025 01:16:52.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has made the advancement [Tunnel Treasures]
 [08Jul2025 01:48:13.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was slain by Enderman
 [08Jul2025 01:48:24.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was slain by Enderman
+[08Jul2025 02:20:46.159] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[08Jul2025 02:20:46.265] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[08Jul2025 02:20:46.265] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[08Jul2025 02:20:46.378] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[08Jul2025 02:20:46.378] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[08Jul2025 02:20:46.484] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[08Jul2025 02:20:46.484] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[08Jul2025 02:20:46.590] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[08Jul2025 02:20:46.604] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[08Jul2025 02:20:46.694] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[08Jul2025 02:20:46.694] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[08Jul2025 02:20:46.770] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[08Jul2025 02:20:47.513] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[08Jul2025 02:20:47.685] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[08Jul2025 02:20:47.686] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[08Jul2025 02:20:47.731] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[08Jul2025 02:20:50.077] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7a4c06e3[id=<null>,name=blackdesfail,properties={},legacy=false] (/127.195.151.45:37443) lost connection: Disconnected
+[08Jul2025 02:20:58.862] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[08Jul2025 02:20:58.966] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[08Jul2025 02:20:58.966] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[08Jul2025 02:20:59.071] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[08Jul2025 02:20:59.071] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[08Jul2025 02:20:59.177] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[08Jul2025 02:20:59.177] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[08Jul2025 02:20:59.286] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[08Jul2025 02:20:59.286] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[08Jul2025 02:20:59.386] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[08Jul2025 02:20:59.386] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[08Jul2025 02:20:59.468] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[08Jul2025 02:21:00.185] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[08Jul2025 02:21:00.403] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[08Jul2025 02:21:00.403] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[08Jul2025 02:21:00.453] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[08Jul2025 02:21:02.911] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blackdesfail lost connection: You logged in from another location
+[08Jul2025 02:21:02.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail left the game
+[08Jul2025 02:21:02.928] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6514211e
+[08Jul2025 02:21:02.951] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[08Jul2025 02:21:02.953] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: blackdesfail[/127.195.151.45:38573] logged in with entity id 174275 at (104.59171055236007, 93.0, -314.69999998807907)
+[08Jul2025 02:21:03.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail joined the game
