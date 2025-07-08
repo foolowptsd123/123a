@@ -50,3 +50,26 @@
 [08Jul2025 00:12:14.061] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-66, y=15, z=-231} BlockPos{x=-67, y=15, z=-230}
 [08Jul2025 00:12:19.410] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-66, y=15, z=-239} BlockPos{x=-65, y=15, z=-237}
 [08Jul2025 00:13:25.709] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-52, y=16, z=-149} BlockPos{x=-53, y=15, z=-150}
+[08Jul2025 00:31:18.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 1 of a max of 20 players online: Aqui_Si_Ban
+[08Jul2025 00:31:42.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] * Server crasheara por exeso de gordos
+[08Jul2025 00:31:57.966] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[08Jul2025 00:31:58.063] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[08Jul2025 00:31:58.104] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[08Jul2025 00:31:58.164] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[08Jul2025 00:31:58.205] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[08Jul2025 00:31:58.265] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[08Jul2025 00:31:58.265] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[08Jul2025 00:31:58.359] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[08Jul2025 00:31:58.360] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[08Jul2025 00:31:58.453] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[08Jul2025 00:31:58.458] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[08Jul2025 00:31:58.548] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[08Jul2025 00:31:59.263] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[08Jul2025 00:31:59.369] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[08Jul2025 00:31:59.374] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[08Jul2025 00:31:59.388] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[08Jul2025 00:32:02.113] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6411b303
+[08Jul2025 00:32:02.119] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: blackdesfail[/127.195.151.45:52217] logged in with entity id 145417 at (-114.30000001192093, 25.0, -1422.3401555062246)
+[08Jul2025 00:32:02.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail joined the game
+[08Jul2025 00:32:11.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> a poco si mi vergita
+[08Jul2025 00:32:56.770] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blackdesfail moved wrongly!
