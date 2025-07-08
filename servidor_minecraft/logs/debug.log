@@ -11106,3 +11106,17 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [08Jul2025 00:13:25.709] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-52, y=16, z=-149} BlockPos{x=-53, y=15, z=-150}
 [08Jul2025 00:14:07.042] [IO-Worker-343/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-352
 [08Jul2025 00:14:07.043] [IO-Worker-348/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-353
+[08Jul2025 00:14:43.179] [IO-Worker-352/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-354
+[08Jul2025 00:14:43.181] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jul2025 00:14:43.187] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jul2025 00:15:52.034] [IO-Worker-352/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-355
+[08Jul2025 00:15:52.037] [IO-Worker-350/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-356
+[08Jul2025 00:15:52.051] [IO-Worker-356/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-357
+[08Jul2025 00:15:52.075] [IO-Worker-354/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-358
+[08Jul2025 00:17:03.400] [IO-Worker-357/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-359
+[08Jul2025 00:17:23.828] [IO-Worker-354/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-360
+[08Jul2025 00:19:43.178] [IO-Worker-357/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-361
+[08Jul2025 00:19:43.186] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jul2025 00:19:43.191] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jul2025 00:24:43.182] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jul2025 00:24:43.187] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
