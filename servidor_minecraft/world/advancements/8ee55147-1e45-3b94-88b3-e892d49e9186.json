@@ -1602,6 +1602,7 @@
       "minecraft:snowy_slopes": "2025-07-04 22:47:25 +0000",
       "minecraft:old_growth_pine_taiga": "2025-07-07 16:57:18 +0000",
       "minecraft:taiga": "2025-07-05 02:49:36 +0000",
+      "minecraft:deep_ocean": "2025-07-08 01:53:56 +0000",
       "minecraft:birch_forest": "2025-07-04 19:44:10 +0000",
       "minecraft:beach": "2025-07-05 04:15:17 +0000",
       "minecraft:dark_forest": "2025-07-05 02:05:15 +0000",
@@ -2651,6 +2652,12 @@
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2025-07-07 16:51:51 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-07-08 01:46:50 +0000"
     },
     "done": true
   },

@@ -11613,3 +11613,30 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [08Jul2025 01:44:43.166] [IO-Worker-429/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-431
 [08Jul2025 01:44:43.171] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [08Jul2025 01:46:03.660] [IO-Worker-431/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-432
+[08Jul2025 01:47:04.735] [Worker-Main422/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main422 shutdown
+[08Jul2025 01:47:23.135] [Worker-Main420/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main433
+[08Jul2025 01:47:25.485] [IO-Worker-431/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-434
+[08Jul2025 01:48:13.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was slain by Enderman
+[08Jul2025 01:48:14.559] [IO-Worker-431/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-435
+[08Jul2025 01:48:14.560] [IO-Worker-434/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-436
+[08Jul2025 01:48:24.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was slain by Enderman
+[08Jul2025 01:49:43.166] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jul2025 01:49:43.170] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jul2025 01:50:31.706] [Worker-Main420/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main420 shutdown
+[08Jul2025 01:50:50.041] [Worker-Main433/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main437
+[08Jul2025 01:52:53.065] [IO-Worker-431/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-438
+[08Jul2025 01:53:37.213] [IO-Worker-434/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-439
+[08Jul2025 01:53:37.315] [Worker-Main433/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main440
+[08Jul2025 01:53:37.315] [Worker-Main421/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main441
+[08Jul2025 01:53:37.328] [Worker-Main421/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main442
+[08Jul2025 01:53:37.330] [Worker-Main421/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main443
+[08Jul2025 01:53:41.979] [Worker-Main443/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main444
+[08Jul2025 01:53:41.981] [Worker-Main444/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main445
+[08Jul2025 01:53:41.982] [Worker-Main444/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main446
+[08Jul2025 01:53:41.983] [Worker-Main444/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main447
+[08Jul2025 01:53:41.983] [Worker-Main444/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main448
+[08Jul2025 01:53:42.248] [IO-Worker-438/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-449
+[08Jul2025 01:53:51.707] [Worker-Main440/DEBUG] [mixin/]: Mixing allocations.do_nothing.AllayAiMixin from saturn.mixins.json into net.minecraft.world.entity.animal.allay.AllayAi
+[08Jul2025 01:53:57.902] [Worker-Main446/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main450
+[08Jul2025 01:54:43.173] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jul2025 01:54:43.178] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
