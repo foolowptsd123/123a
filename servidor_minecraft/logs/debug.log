@@ -11593,3 +11593,23 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [08Jul2025 01:34:43.168] [IO-Worker-417/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-418
 [08Jul2025 01:34:43.169] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [08Jul2025 01:34:43.174] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jul2025 01:36:14.158] [Worker-Main414/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main414 shutdown
+[08Jul2025 01:36:46.708] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main419
+[08Jul2025 01:38:46.203] [Worker-Main419/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main419 shutdown
+[08Jul2025 01:39:02.744] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main420
+[08Jul2025 01:39:02.745] [Worker-Main420/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main421
+[08Jul2025 01:39:02.745] [Worker-Main420/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main422
+[08Jul2025 01:39:15.999] [IO-Worker-410/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-423
+[08Jul2025 01:39:43.166] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jul2025 01:39:43.171] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jul2025 01:40:46.911] [IO-Worker-410/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-424
+[08Jul2025 01:41:54.909] [IO-Worker-424/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-425
+[08Jul2025 01:41:54.909] [IO-Worker-423/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-426
+[08Jul2025 01:41:54.909] [IO-Worker-424/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-427
+[08Jul2025 01:43:11.073] [IO-Worker-424/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-428
+[08Jul2025 01:43:13.948] [IO-Worker-428/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-429
+[08Jul2025 01:44:43.166] [IO-Worker-425/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-430
+[08Jul2025 01:44:43.166] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jul2025 01:44:43.166] [IO-Worker-429/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-431
+[08Jul2025 01:44:43.171] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jul2025 01:46:03.660] [IO-Worker-431/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-432
