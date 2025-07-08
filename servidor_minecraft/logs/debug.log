@@ -11507,3 +11507,27 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [08Jul2025 00:33:42.623] [IO-Worker-361/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-369
 [08Jul2025 00:34:43.209] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [08Jul2025 00:34:43.214] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jul2025 00:36:16.126] [IO-Worker-369/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-370
+[08Jul2025 00:36:29.333] [IO-Worker-366/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-371
+[08Jul2025 00:39:33.656] [IO-Worker-366/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-372
+[08Jul2025 00:39:43.202] [IO-Worker-366/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-373
+[08Jul2025 00:39:43.202] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jul2025 00:39:43.207] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jul2025 00:42:02.825] [IO-Worker-373/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-374
+[08Jul2025 00:42:02.826] [IO-Worker-366/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-375
+[08Jul2025 00:42:02.826] [IO-Worker-366/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-376
+[08Jul2025 00:44:43.203] [IO-Worker-376/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-377
+[08Jul2025 00:44:43.205] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jul2025 00:44:43.210] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jul2025 00:44:43.603] [IO-Worker-366/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-378
+[08Jul2025 00:44:57.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> muchacho?
+[08Jul2025 00:45:44.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> muchacho no veas el tab
+[08Jul2025 00:49:43.207] [IO-Worker-377/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-379
+[08Jul2025 00:49:43.212] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jul2025 00:49:43.216] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jul2025 00:53:33.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> muchacho te hice dos pociones de rest a fuego
+[08Jul2025 00:54:09.228] [IO-Worker-379/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-380
+[08Jul2025 00:54:24.506] [IO-Worker-377/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-381
+[08Jul2025 00:54:33.864] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aqui_Si_Ban moved too quickly! -0.19520380802495652,-10.583188926255858,-0.04515371554629155
+[08Jul2025 00:54:43.191] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jul2025 00:54:43.195] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
