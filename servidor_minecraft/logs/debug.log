@@ -11076,3 +11076,33 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [08Jul2025 00:02:47.514] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-46, y=15, z=-275} BlockPos{x=-46, y=15, z=-273}
 [08Jul2025 00:04:14.125] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-34, y=16, z=-286} BlockPos{x=-35, y=16, z=-290}
 [08Jul2025 00:04:14.263] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-34, y=16, z=-286} BlockPos{x=-35, y=16, z=-290}
+[08Jul2025 00:04:29.227] [IO-Worker-332/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-335
+[08Jul2025 00:04:43.176] [IO-Worker-332/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-336
+[08Jul2025 00:04:43.176] [IO-Worker-335/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-337
+[08Jul2025 00:04:43.176] [IO-Worker-336/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-338
+[08Jul2025 00:04:43.177] [IO-Worker-332/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-340
+[08Jul2025 00:04:43.177] [IO-Worker-331/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-339
+[08Jul2025 00:04:43.181] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jul2025 00:04:43.187] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jul2025 00:05:10.060] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-44, y=15, z=-290} BlockPos{x=-44, y=16, z=-290}
+[08Jul2025 00:05:23.961] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-54, y=15, z=-296} BlockPos{x=-54, y=16, z=-297}
+[08Jul2025 00:05:49.176] [IO-Worker-340/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-341
+[08Jul2025 00:05:49.183] [IO-Worker-332/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-342
+[08Jul2025 00:06:04.645] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-67, y=15, z=-325} BlockPos{x=-68, y=16, z=-326}
+[08Jul2025 00:07:09.414] [IO-Worker-341/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-343
+[08Jul2025 00:07:41.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban was slain by Zombified Piglin
+[08Jul2025 00:07:42.411] [IO-Worker-341/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-344
+[08Jul2025 00:07:42.411] [IO-Worker-341/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-345
+[08Jul2025 00:07:58.110] [IO-Worker-342/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-346
+[08Jul2025 00:09:37.676] [IO-Worker-343/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-347
+[08Jul2025 00:09:43.173] [IO-Worker-345/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-349
+[08Jul2025 00:09:43.173] [IO-Worker-347/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-348
+[08Jul2025 00:09:43.178] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jul2025 00:09:43.183] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jul2025 00:12:14.061] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-66, y=15, z=-231} BlockPos{x=-67, y=15, z=-230}
+[08Jul2025 00:12:19.410] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-66, y=15, z=-239} BlockPos{x=-65, y=15, z=-237}
+[08Jul2025 00:12:53.629] [IO-Worker-348/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-350
+[08Jul2025 00:13:23.221] [IO-Worker-343/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-351
+[08Jul2025 00:13:25.709] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-52, y=16, z=-149} BlockPos{x=-53, y=15, z=-150}
+[08Jul2025 00:14:07.042] [IO-Worker-343/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-352
+[08Jul2025 00:14:07.043] [IO-Worker-348/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-353

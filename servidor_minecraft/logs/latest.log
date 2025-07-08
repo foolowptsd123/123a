@@ -43,3 +43,10 @@
 [08Jul2025 00:02:47.514] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-46, y=15, z=-275} BlockPos{x=-46, y=15, z=-273}
 [08Jul2025 00:04:14.125] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-34, y=16, z=-286} BlockPos{x=-35, y=16, z=-290}
 [08Jul2025 00:04:14.263] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-34, y=16, z=-286} BlockPos{x=-35, y=16, z=-290}
+[08Jul2025 00:05:10.060] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-44, y=15, z=-290} BlockPos{x=-44, y=16, z=-290}
+[08Jul2025 00:05:23.961] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-54, y=15, z=-296} BlockPos{x=-54, y=16, z=-297}
+[08Jul2025 00:06:04.645] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-67, y=15, z=-325} BlockPos{x=-68, y=16, z=-326}
+[08Jul2025 00:07:41.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban was slain by Zombified Piglin
+[08Jul2025 00:12:14.061] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-66, y=15, z=-231} BlockPos{x=-67, y=15, z=-230}
+[08Jul2025 00:12:19.410] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-66, y=15, z=-239} BlockPos{x=-65, y=15, z=-237}
+[08Jul2025 00:13:25.709] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-52, y=16, z=-149} BlockPos{x=-53, y=15, z=-150}
